@@ -1,27 +1,8 @@
-%% abtex2-modelo-artigo.tex, v<VERSION> laurocesar
-%% Copyright 2012-<COPYRIGHT_YEAR> by abnTeX2 group at http://www.abntex.net.br/
-%%
-%% This work may be distributed and/or modified under the
-%% conditions of the LaTeX Project Public License, either version 1.3
-%% of this license or (at your option) any later version.
-%% The latest version of this license is in
-%%   http://www.latex-project.org/lppl.txt
-%% and version 1.3 or later is part of all distributions of LaTeX
-%% version 2005/12/01 or later.
-%%
-%% This work has the LPPL maintenance status `maintained'.
-%%
-%% The Current Maintainer of this work is the abnTeX2 team, led
-%% by Lauro César Araujo. Further information are available on
-%% http://www.abntex.net.br/
-%%
-%% This work consists of the files abntex2-modelo-artigo.tex and
-%% abntex2-modelo-references.bib
-%%
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% Modelo exigido pelo IGTI, baseado no modelo para artigos do abnTeX2
 
-% ------------------------------------------------------------------------
-% ------------------------------------------------------------------------
-% abnTeX2: Modelo de Artigo Acadêmico em conformidade com
+% abnTeX2: Modelo de Proposta de Artigo Acadêmico em conformidade com
 % ABNT NBR 6022:2003: Informação e documentação - Artigo em publicação
 % periódica científica impressa - Apresentação
 % ------------------------------------------------------------------------
@@ -95,12 +76,10 @@
 % ---
 % Informações de dados para CAPA e FOLHA DE ROSTO
 % ---
-\titulo{Modelo Canônico de\\ Artigo científico com \abnTeX}
-\autor{Equipe \abnTeX\thanks{\url{http://www.abntex.net.br/}} \and Lauro
-César
-Araujo\thanks{laurocesar@laurocesar.com}}
+\titulo{Proposta de TCC\\ Artigo científico}
+\autor{Luiz Gonzaga dos Santos Filho \thanks{\url{http://luiz.in/}}}
 \local{Brasil}
-\data{2015, v<VERSION>}
+\data{2017, Versão Inicial}
 % ---
 
 % ---
@@ -215,16 +194,6 @@ Araujo\thanks{laurocesar@laurocesar.com}}
 % página de titulo
 \maketitle
 
-% resumo em português
-\begin{resumoumacoluna}
- $resumo$
-
- \vspace{\onelineskip}
-
- \noindent
- \textbf{Palavras-chave}: latex. abntex. editoração de texto.
-\end{resumoumacoluna}
-
 % ]  				% FIM DE ARTIGO EM DUAS COLUNAS
 % ---
 
@@ -239,34 +208,6 @@ $body$
 % ELEMENTOS PÓS-TEXTUAIS
 % ----------------------------------------------------------
 \postextual
-
-% ---
-% Título e resumo em língua estrangeira
-% ---
-
-% \twocolumn[    		% INICIO DE ARTIGO EM DUAS COLUNAS
-
-% titulo em inglês
-\titulo{Canonical academic article model with \abnTeX}
-\emptythanks
-\maketitle
-
-% resumo em português
-\renewcommand{\resumoname}{Abstract}
-\begin{resumoumacoluna}
- \begin{otherlanguage*}{english}
-   According to ABNT NBR 6022:2003, an abstract in foreign language is a back
-   matter mandatory element.
-
-   \vspace{\onelineskip}
-
-   \noindent
-   \textbf{Keywords}: latex. abntex.
- \end{otherlanguage*}
-\end{resumoumacoluna}
-
-% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
-% ---
 
 % ----------------------------------------------------------
 % Referências bibliográficas
