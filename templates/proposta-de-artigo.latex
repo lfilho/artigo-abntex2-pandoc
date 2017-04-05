@@ -77,10 +77,16 @@
 % ---
 % Informações de dados para CAPA e FOLHA DE ROSTO
 % ---
-\titulo{Proposta de TCC\\ Artigo científico}
-\autor{Luiz Gonzaga dos Santos Filho \thanks{\url{http://luiz.in/}}}
+\titulo{Proposta de TCC\\Artigo científico}
+\autor{Luiz Gonzaga dos Santos Filho}
+\instituicao{%
+    Instituto de Gestão em TI -- IGTI
+    \par
+    MBA em Análise de Processos de Negócio
+    \par
+    Turma APN162A}
 \local{Brasil}
-\data{2017, Versão Inicial}
+\data{\today}
 % ---
 
 % ---
@@ -123,7 +129,7 @@
 \setlength{\parindent}{1.3cm}
 
 % Controle do espaçamento entre um parágrafo e outro:
-\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+\setlength{\parskip}{6pt}  % tente também \onelineskip
 
 % Espaçamento 1.5
 \OnehalfSpacing
@@ -187,6 +193,10 @@
 %---
 % página de titulo
 \maketitle
+\begin{center}
+    \imprimirinstituicao
+\end{center}
+\pagebreak
 
 % ]  				% FIM DE ARTIGO EM DUAS COLUNAS
 % ---
