@@ -101,8 +101,8 @@
      	%pagebackref=true,
 		pdftitle={\@title},
 		pdfauthor={\@author},
-    	pdfsubject={Modelo de artigo científico com abnTeX2},
-	    pdfcreator={LaTeX with abnTeX2},
+        pdfsubject={Proposta de Artigo Científico},
+        pdfcreator={LaTeX with abnTeX2, Markdown and Pandoc},
 		pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico},
 		colorlinks=true,       		% false: boxed links; true: colored links
     	linkcolor=blue,          	% color of internal links
@@ -217,9 +217,5 @@ $body$
 % Referências bibliográficas
 % ----------------------------------------------------------
 \bibliography{referencias}
-
-$for(include-after)$
-    $include-after$
-$endfor$
 
 \end{document}
