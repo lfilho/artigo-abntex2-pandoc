@@ -104,7 +104,7 @@
         pdfsubject={Proposta de Artigo Científico},
         pdfcreator={LaTeX with abnTeX2, Markdown and Pandoc},
 		pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico},
-		colorlinks=true,       		% false: boxed links; true: colored links
+        colorlinks=false,       		% false: boxed links; true: colored links
     	linkcolor=blue,          	% color of internal links
     	citecolor=blue,        		% color of links to bibliography
     	filecolor=magenta,     		% color of file links
