@@ -41,3 +41,8 @@ Fonte: \cite{dewey1980}.
 
 Ver o \autoref{exemplo} e a \autoref{tabexemplo}.
 
+# Referencias futuras
+
+94% of businesse leaders worlwide believe the intangibles, such as company culture, are important for business. -- \cite{conley2007peak}
+
+Not everything that can be counted counts, and not everything that counts can be counted - Einstein
