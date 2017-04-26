@@ -16,11 +16,11 @@ O artigo propõe-se a analisar fatores não considerados costumeiramente ao se d
 
 # Justificativa
 
-Ao se pensar em Gestão de Processos de Negócios (Business Process Management - BPM) ou Reengenharia de Processos de Negócios (Business Process Reengineering - BPR) muitos são os fatores críticos de sucesso, a citar: cultura, liderança, comunicação, tecnologia da informação, alinhamento estratégico, pessoas, gestão de projetos, mensuração de performance e metodologia. \cite{bandara2009means}. Por outro lado, mais numerosos ainda são os fatores de fracasso, entre eles a falta de recursos (financeiros, temporais, de pessoal, entre outros) disponíveis para tal empreendimento \cite{al1999bpr}.
+Ao se pensar em Gestão de Processos de Negócios (Business Process Management - BPM) ou Reengenharia de Processos de Negócios (Business Process Reengineering - BPR) muitos são os fatores críticos de sucesso, a citar: cultura, liderança, comunicação, tecnologia da informação, alinhamento estratégico, pessoas, gestão de projetos, mensuração de performance e metodologia. \cite[p.~5]{bandara2009means}. Por outro lado, mais numerosos ainda são os fatores de fracasso, entre eles a falta de recursos (financeiros, temporais, de pessoal, entre outros) disponíveis para tal empreendimento \cite[p.~18-19]{al1999bpr}.
 
-Assim, esforços de modelagem, automação ou reengenharia de processos usualmente não seguem adiante por falta de patrocínio e tal situação é especialmente presente em países em crise \cite{marques2014diagnostico}. Todavia, a saída da empresa de uma crise (ou a sua maior competitividade e lucratividade, independente de crise) talvez esteja na inovação e para tal o mapeamento de processos seria um passo essencial a se dar (ibid.).
+Assim, esforços de modelagem, automação ou reengenharia de processos usualmente não seguem adiante por falta de patrocínio e tal situação é especialmente presente em países em crise \cite[p.~2-4]{marques2014diagnostico}. Todavia, a saída da empresa de uma crise (ou a sua maior competitividade e lucratividade, independente de crise) talvez esteja na inovação e para tal o mapeamento de processos seria um passo essencial a se dar (ibid.).
 
-Também é sabido que as novas gerações de trabalhadores cada vez mais valorizam fatores como propósito, autonomia, maestria, transparência e colaboração no ambiente de trabalho e que tais fatores são chave para o engajamento dos mesmos \cite{pink2011drive}.
+Também é sabido que as novas gerações de trabalhadores cada vez mais valorizam fatores como propósito, autonomia, maestria, transparência e colaboração no ambiente de trabalho e que tais fatores são chave para o engajamento dos mesmos \cite[p.~218-223]{pink2011drive}.
 
 Portanto, ter processos mapeados, com sua cadeia de valor explicitamente documentada, poderia ser um insumo basilar não só para o engajamento dos trabalhadores mas, conseguintemente, para quaisquer inovações daí vindouras.
 
@@ -28,7 +28,7 @@ Além da possibilidade da inovação, tais mapeamentos trazem ainda outros benef
 
 Tais benefícios aos clientes internos de uma empresa corroboram a própria definição de processos dada por Djalma de Oliveira:
 
-> Um conjunto estruturado de atividades sequenciais que apresentam relação lógica entre si, com a finalidade de atender e, preferencialmente, suplantar as necessidades e as expectativas dos clientes externos e internos da empresa. \cite{oliveira2006administraccao}.
+> Um conjunto estruturado de atividades sequenciais que apresentam relação lógica entre si, com a finalidade de atender e, preferencialmente, suplantar as necessidades e as expectativas dos clientes externos e internos da empresa. \cite[p.~ 9]{oliveira2006administraccao}.
 
 Todavia, há pouca exploração destes tópicos em conjunto na literatura.
 
