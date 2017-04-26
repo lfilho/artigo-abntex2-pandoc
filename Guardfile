@@ -1,19 +1,21 @@
 # More info at https://github.com/guard/guard#readme
 
 guard :shell do
-  watch(/(artigo.md|anexos.md|apendices.md)/) do |m|
+    watch(/(artigo.md|anexos.md|apendices.md)/) do |m|
+        puts "\n\n#{Time.now.strftime('%H:%M:%S')} #{m[0]} alterado. Re-gerando PDF do artigo."
 
-    puts "#{Time.now.strftime('%H:%M:%S')} #{m[0]} foi alterado. Iniciando geração do PDF"
-    `rake artigo`
-    # Exibe erros de citações inválidas
-    `pdfgrep  -H --color always '\\[\\?\\]' xxx-artigo.pdf`
-  end
+        `rake artigo`
 
-  watch(/(proposta-de-artigo.md)/) do |m|
+        # Exibe erros de citações inválidas
+        `pdfgrep  -H --color always '\\[\\?\\]' out/"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho".pdf`
+    end
 
-    puts "#{Time.now.strftime('%H:%M:%S')} Proposta de Artigo alterada. Gerando PDF."
-    `rake proposta`
-    # Exibe erros de citações inválidas
-    `pdfgrep  -H --color always '\\[\\?\\]' xxx-proposta-de-artigo.pdf`
-  end
+    watch(/(proposta.md)/) do |m|
+        puts "\n\n#{Time.now.strftime('%H:%M:%S')} Proposta alterada. Re-gerando PDF."
+
+        `rake proposta`
+
+        # Exibe erros de citações inválidas
+        `pdfgrep  -H --color always '\\[\\?\\]' out/"Proposta\ de\ Trabalho\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho".pdf`
+    end
 end
