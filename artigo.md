@@ -50,3 +50,7 @@ Not everything that can be counted counts, and not everything that counts can be
 # Frases
 
 diminuir essa lacuna de entendimento do que o negócio precisa
+
+
+O desenho BPMN explicita o processo de negócio que está no
+conhecimento tácito das pessoas
