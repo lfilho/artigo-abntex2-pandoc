@@ -37,7 +37,7 @@ task :artigo do
     inclui_anexos = "-A xxx-anexos.tex"
   end
 
-  system "pandoc -f markdown+raw_tex artigo.md --data-dir=. --template=artigo-abntex2 --filter pandoc_abnt -o #{ARTIGO_LATEX} #{inclui_apendices} #{inclui_anexos} --top-level-division=section"
+  system "pandoc -f markdown+raw_tex artigo.md --data-dir=. --template=artigo --filter pandoc_abnt -o #{ARTIGO_LATEX} #{inclui_apendices} #{inclui_anexos} --top-level-division=section"
 
   system "latexmk -f -silent -pdf #{ARTIGO_LATEX}"
 

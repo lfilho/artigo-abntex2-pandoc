@@ -1,27 +1,8 @@
-%% abtex2-modelo-artigo.tex, v<VERSION> laurocesar
-%% Copyright 2012-<COPYRIGHT_YEAR> by abnTeX2 group at http://www.abntex.net.br/
-%%
-%% This work may be distributed and/or modified under the
-%% conditions of the LaTeX Project Public License, either version 1.3
-%% of this license or (at your option) any later version.
-%% The latest version of this license is in
-%%   http://www.latex-project.org/lppl.txt
-%% and version 1.3 or later is part of all distributions of LaTeX
-%% version 2005/12/01 or later.
-%%
-%% This work has the LPPL maintenance status `maintained'.
-%%
-%% The Current Maintainer of this work is the abnTeX2 team, led
-%% by Lauro César Araujo. Further information are available on
-%% http://www.abntex.net.br/
-%%
-%% This work consists of the files abntex2-modelo-artigo.tex and
-%% abntex2-modelo-references.bib
-%%
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% Modelo exigido pelo IGTI, baseado no modelo para artigos do abnTeX2
 
-% ------------------------------------------------------------------------
-% ------------------------------------------------------------------------
-% abnTeX2: Modelo de Artigo Acadêmico em conformidade com
+% abnTeX2: Modelo de Proposta de Artigo Acadêmico em conformidade com
 % ABNT NBR 6022:2003: Informação e documentação - Artigo em publicação
 % periódica científica impressa - Apresentação
 % ------------------------------------------------------------------------
@@ -30,7 +11,7 @@
 \documentclass[
 	% -- opções da classe memoir --
 	article,			% indica que é um artigo acadêmico
-	11pt,				% tamanho da fonte
+	12pt,				% tamanho da fonte
 	oneside,			% para impressão apenas no recto. Oposto a twoside
 	a4paper,			% tamanho do papel.
 	% -- opções da classe abntex2 --
@@ -52,20 +33,15 @@
 % ---
 % Pacotes fundamentais
 % ---
-\usepackage{lmodern}			% Usa a fonte Latin Modern
+\usepackage{helvet}			    % Usa a fonte Helvet (clone da Arial)
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
-\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage[utf8]{inputenc}		% Codificação do documento (conversão automática dos acentos)
 \usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
 \usepackage{nomencl} 			% Lista de simbolos
 \usepackage{color}				% Controle das cores
 \usepackage{graphicx}			% Inclusão de gráficos
 \usepackage{microtype} 			% para melhorias de justificação
-% ---
-
-% ---
-% Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
-% ---
-\usepackage{lipsum}				% para geração de dummy text
 % ---
 
 % ---
@@ -95,12 +71,17 @@
 % ---
 % Informações de dados para CAPA e FOLHA DE ROSTO
 % ---
-\titulo{Modelo Canônico de\\ Artigo científico com \abnTeX}
-\autor{Equipe \abnTeX\thanks{\url{http://www.abntex.net.br/}} \and Lauro
-César
-Araujo\thanks{laurocesar@laurocesar.com}}
+\titulo{$titulo$}
+\autor{$autor$}
+\orientador[Orientador: ]{$orientador$}
+\instituicao{%
+    Instituto de Gestão em TI -- IGTI
+    \par
+    MBA em Análise de Processos de Negócio
+    \par
+    Turma APN162A}
 \local{Brasil}
-\data{2015, v<VERSION>}
+\data{\today}
 % ---
 
 % ---
@@ -115,8 +96,8 @@ Araujo\thanks{laurocesar@laurocesar.com}}
      	%pagebackref=true,
 		pdftitle={\@title},
 		pdfauthor={\@author},
-    	pdfsubject={Modelo de artigo científico com abnTeX2},
-	    pdfcreator={LaTeX with abnTeX2},
+    	pdfsubject={Artigo Científico},
+	    pdfcreator={LaTeX with abnTeX2, Markdown and Pandoc},
 		pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico},
 		colorlinks=true,       		% false: boxed links; true: colored links
     	linkcolor=blue,          	% color of internal links
@@ -150,10 +131,10 @@ Araujo\thanks{laurocesar@laurocesar.com}}
 \setlength{\parindent}{1.3cm}
 
 % Controle do espaçamento entre um parágrafo e outro:
-\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+\setlength{\parskip}{6pt}  % tente também \onelineskip
 
-% Espaçamento simples
-\SingleSpacing
+% Espaçamento 1.5
+\OnehalfSpacing
 
 
 %---
@@ -214,15 +195,22 @@ Araujo\thanks{laurocesar@laurocesar.com}}
 %---
 % página de titulo
 \maketitle
+\begin{center}
+    \imprimirinstituicao
+    \par
+    \imprimirorientadorRotulo \imprimirorientador
+\end{center}
+\pagebreak
 
 % resumo em português
 \begin{resumoumacoluna}
+ \normalsize
  $resumo$
 
  \vspace{\onelineskip}
 
  \noindent
- \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+ \textbf{Palavras-chave}: $palavrasChave$
 \end{resumoumacoluna}
 
 % ]  				% FIM DE ARTIGO EM DUAS COLUNAS
@@ -247,21 +235,20 @@ $body$
 % \twocolumn[    		% INICIO DE ARTIGO EM DUAS COLUNAS
 
 % titulo em inglês
-\titulo{Canonical academic article model with \abnTeX}
+\titulo{$title$}
 \emptythanks
 \maketitle
 
-% resumo em português
+% resumo em inglês
 \renewcommand{\resumoname}{Abstract}
 \begin{resumoumacoluna}
  \begin{otherlanguage*}{english}
-   According to ABNT NBR 6022:2003, an abstract in foreign language is a back
-   matter mandatory element.
-
+   \normalsize
+   $abstract$
    \vspace{\onelineskip}
 
    \noindent
-   \textbf{Keywords}: latex. abntex.
+   \textbf{Keywords}: $keywords$
  \end{otherlanguage*}
 \end{resumoumacoluna}
 
@@ -274,6 +261,7 @@ $body$
 \bibliography{referencias}
 
 $for(include-after)$
+    \pagebreak
     $include-after$
 $endfor$
 
