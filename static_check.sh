@@ -23,13 +23,15 @@ status_print() {
     local string=$1
     local value=$2
     local reference_value=$3
+    local percentual_value=$(($value*100/$reference_value))
+    local final_string="$string $value de $reference_value (${percentual_value}%)"
 
     if [ $value -ge $reference_value ]; then
-        print_in_green "$string $value de $reference_value"
+        print_in_green "$final_string"
     elif [ $value -ge $((${reference_value}/2)) ]; then
-        print_in_yellow "$string $value de $reference_value"
+        print_in_yellow "$final_string"
     else
-        print_in_red "$string $value de $reference_value"
+        print_in_red "$final_string"
     fi
 }
 
@@ -40,11 +42,11 @@ avg_num_of_chars=24000
 
 pdf_file="out/Artigo - Luiz Gonzaga dos Santos Filho.pdf"
 pdf_to_text=`pdftotext "$pdf_file" -`
+rm "out/Artigo - Luiz Gonzaga dos Santos Filho.txt"
+
 num_of_pages=`podofocountpages -s "$pdf_file"`
 num_of_words=`echo "$pdf_to_text" | wc -w | xargs`
 num_of_chars=`echo "$pdf_to_text" | wc -m | xargs`
-
-rm "out/Artigo - Luiz Gonzaga dos Santos Filho.txt"
 
 echo "---------------------------"
 echo "Análise estática do artigo:"
