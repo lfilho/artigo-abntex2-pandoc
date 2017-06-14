@@ -12,3 +12,5 @@
 
 - Você notou em você uma maior vontade de entender os demais processos da empresa após ver os primeiros processos mapeados?
 - Você notou em colegas uma maior vontade de entender os demais processos da empresa após ver os primeiros processos mapeados?
+
+- Você acredita que os esforços despreendidos para tais mapeamentos (processos.dataeasy.com.br) valeram a pena frente aos resultados/valores que vieram dele?
