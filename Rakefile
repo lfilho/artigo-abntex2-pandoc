@@ -42,6 +42,7 @@ task :artigo do
   system "latexmk -f -silent -pdf #{ARTIGO_LATEX}"
 
   system "mv #{ARTIGO_PDF} out/\"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf"
+  system "./static_check.sh"
 
   Rake::Task[:clean].execute
 end
