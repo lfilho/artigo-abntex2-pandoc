@@ -16,7 +16,7 @@ O artigo propõe-se a analisar fatores não considerados costumeiramente ao se d
 
 # Justificativa
 
-Ao se pensar em Gestão de Processos de Negócios (Business Process Management - BPM) ou Reengenharia de Processos de Negócios (Business Process Reengineering - BPR) muitos são os fatores críticos de sucesso, a citar: cultura, liderança, comunicação, tecnologia da informação, alinhamento estratégico, pessoas, gestão de projetos, mensuração de performance e metodologia. \cite[p.~5]{bandara2009means}. Por outro lado, mais numerosos ainda são os fatores de fracasso, entre eles a falta de recursos (financeiros, temporais, de pessoal, entre outros) disponíveis para tal empreendimento \cite[p.~18-19]{al1999bpr}.
+Ao se pensar em Gestão de Processos de Negócios (Business Process Management - BPM) ou Reengenharia de Processos de Negócios (Business Process Reengineering - BPR) muitos são os fatores críticos de sucesso, a citar: cultura, liderança, comunicação, tecnologia da informação, alinhamento estratégico, pessoas, gestão de projetos, mensuração de performance e metodologia \cite[p.~5]{bandara2009means}. Por outro lado, mais numerosos ainda são os fatores de fracasso, entre eles a falta de recursos (financeiros, temporais, de pessoal, entre outros) disponíveis para tal empreendimento \cite[p.~18-19]{al1999bpr}.
 
 Assim, esforços de modelagem, automação ou reengenharia de processos usualmente não seguem adiante por falta de patrocínio e tal situação é especialmente presente em países em crise \cite[p.~2-4]{marques2014diagnostico}. Todavia, a saída da empresa de uma crise (ou a sua maior competitividade e lucratividade, independente de crise) talvez esteja na inovação e para tal o mapeamento de processos seria um passo essencial a se dar (ibid.).
 
@@ -38,7 +38,7 @@ Tendo em vista o trabalho de mapeamento de processos realizado pelo autor em 201
 
 Esta pesquisa caracterizar-se-á como uma pesquisa aplicada, qualitativa, exploratória e de estudo de caso.
 
-A exploração se dará com a participação da empresa DataEasy, sediada em Goiânia - GO, durante o segundo e terceiro trimestres de 2017.
+A exploração se dará com a participação de uma empresa de médio porte, sediada em Goiânia - Goiás - Brasil, durante o segundo e terceiro trimestres de 2017.
 
 Os dados serão colhidos de duas formas: 1) via uso de um questionário anônimo (para maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores da empresa supracitada, bem como por seu sócio fundador e diretor de tecnologia e 2) via entrevista com colaboradores chave (líderes de equipe, diretor de tecnologia e sócio fundador).
 
