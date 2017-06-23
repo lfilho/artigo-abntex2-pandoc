@@ -1,5 +1,5 @@
 ---
-titulo: "Benefícios colaterais e qualitativos para a cultura empresarial ao se mapear processos: estudo de caso de uma empresa brasileira de pequeno porte"
+titulo: "Benefícios secundários e qualitativos para a cultura empresarial ao se mapear processos: estudo de caso de uma empresa brasileira de pequeno porte"
 title: "Collateral and qualitative benefits to an organization's culture when mapping processes: case study of a brazillian small sized company"
 autor: "Luiz Gonzaga dos Santos Filho"
 orientador: "PhD. Fulana de tal"
@@ -19,9 +19,9 @@ Sabedores de tais informações, é entendível a eventual incredulidade dos res
 
 Assim, seria mister um profissional, departamento ou organização que se encontra no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, se munir de maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de obter os desejados patrocínios supracitados. E, ao passo que já conseguimos entender bem os benefícios diretos e quantitativos, estritamente relacionados à processos em si (//TODO exemplos de métricas, buscar na fonte existe), acredita-se haver ainda outros benefícios, qualitativos, por vezes ignorados.
 
-Mais além, estes mesmos benefícios colaterais e qualitativos poderiam provar serem, por si só, essenciais e altamente quistos à organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização. Servirá de insumo para outras empresas que, porventura, também visem cultivar uma cultura de inovação e engajamento entre seus funcionários.
+Mais além, estes mesmos benefícios secundários e qualitativos poderiam provar serem, por si só, essenciais e altamente quistos à organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização. Servirá de insumo para outras empresas que, porventura, também visem cultivar uma cultura de inovação e engajamento entre seus funcionários.
 
-Destarte, este trabalho visa, primeiramente, identificar alguns dos possíveis benefícios colaterais e qualitativos referidos e corroborar tais benefícios hipotéticos à realidade fatual de uma empresa brasileira de pequeno porte, a DataEasy, onde tal empreendimento aconteceu há alguns anos atrás.
+Destarte, este trabalho visa, primeiramente, identificar alguns dos possíveis benefícios secundários e qualitativos referidos e corroborar tais benefícios hipotéticos à realidade fatual de uma empresa brasileira de pequeno porte, a DataEasy, onde tal empreendimento aconteceu há alguns anos atrás.
 
 Adicionalmente, entrevistaremos alguns líderes-chave da empresa para corroborar se, de acordo com suas opiniões especializadas, tais benefícios de fato compensaram ou não o investimento no empreendimento.
 
