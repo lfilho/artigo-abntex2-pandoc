@@ -11,7 +11,7 @@ guard :shell do
         `pdfgrep -H --color always '\\[\\?\\]' out/"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho".pdf`
     end
 
-    watch(/(proposta.latex|proposta.md)/) do |m|
+    watch(/(proposta.latex|plano.md|proposta.md)/) do |m|
         puts "\n\n#{Time.now.strftime('%H:%M:%S')} Proposta alterada. Re-gerando PDF."
 
         `rake proposta`
