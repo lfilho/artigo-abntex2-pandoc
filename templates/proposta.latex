@@ -212,4 +212,9 @@ $body$
 % ----------------------------------------------------------
 \bibliography{referencias}
 
+$for(include-after)$
+    \pagebreak
+    $include-after$
+$endfor$
+
 \end{document}
