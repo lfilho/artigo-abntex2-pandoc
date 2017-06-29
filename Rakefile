@@ -13,7 +13,6 @@ SILENT = ENV['DEBUG'] ? '' : '-silent'
 
 desc "Gera e executa compilacao da proposta do artigo"
 task :proposta do
-
   inclui_plano = ""
 
   if PLANO_DE_TRABALHO then
@@ -21,18 +20,15 @@ task :proposta do
     inclui_plano = "-A xxx-plano.tex"
   end
 
-  system "pandoc -f markdown+raw_tex proposta.md --data-dir=. --template=proposta --filter pandoc_abnt -o #{PROPOSTA_LATEX} #{inclui_plano} --top-level-division=section"
-
-  system "latexmk -f #{SILENT} -pdf #{PROPOSTA_LATEX}"
-
-  system "mv #{PROPOSTA_PDF} \"out/Proposta\ de\ Trabalho\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf"
-
-  Rake::Task[:clean].execute
+  system <<-EOS
+    pandoc -f markdown+raw_tex proposta.md --data-dir=. --template=proposta --filter pandoc_abnt -o #{PROPOSTA_LATEX} #{inclui_plano} --top-level-division=section && \
+    latexmk -f #{SILENT} -pdf #{PROPOSTA_LATEX} && \
+    mv #{PROPOSTA_PDF} \"out/Proposta\ de\ Trabalho\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf
+  EOS
 end
 
 desc "Gera e executa compilacao do artigo"
 task :artigo do
-
   inclui_apendices = ""
   inclui_anexos = ""
 
@@ -46,14 +42,12 @@ task :artigo do
     inclui_anexos = "-A xxx-anexos.tex"
   end
 
-  system "pandoc -f markdown+raw_tex artigo.md --data-dir=. --template=artigo --filter pandoc_abnt -o #{ARTIGO_LATEX} #{inclui_apendices} #{inclui_anexos} --top-level-division=section"
-
-  system "latexmk -f #{SILENT} -pdf #{ARTIGO_LATEX}"
-
-  system "mv #{ARTIGO_PDF} out/\"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf"
-  system "./static_check.sh"
-
-  Rake::Task[:clean].execute
+  system <<-EOS
+    pandoc -f markdown+raw_tex artigo.md --data-dir=. --template=artigo --filter pandoc_abnt -o #{ARTIGO_LATEX} #{inclui_apendices} #{inclui_anexos} --top-level-division=section && \
+    latexmk -f #{SILENT} -pdf #{ARTIGO_LATEX} && \
+    mv #{ARTIGO_PDF} out/\"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf && \
+    ./static_check.sh
+  EOS
 end
 
 task :default => [:artigo]
