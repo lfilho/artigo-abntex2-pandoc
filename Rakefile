@@ -9,6 +9,7 @@ ARTIGO_LATEX = "xxx-artigo.tex"
 ARTIGO_PDF = "xxx-artigo.pdf"
 PROPOSTA_LATEX = "xxx-proposta.tex"
 PROPOSTA_PDF = "xxx-proposta.pdf"
+SILENT = ENV['DEBUG'] ? '' : '-silent'
 
 desc "Gera e executa compilacao da proposta do artigo"
 task :proposta do
@@ -22,7 +23,7 @@ task :proposta do
 
   system "pandoc -f markdown+raw_tex proposta.md --data-dir=. --template=proposta --filter pandoc_abnt -o #{PROPOSTA_LATEX} #{inclui_plano} --top-level-division=section"
 
-  system "latexmk -f -silent -pdf #{PROPOSTA_LATEX}"
+  system "latexmk -f #{SILENT} -pdf #{PROPOSTA_LATEX}"
 
   system "mv #{PROPOSTA_PDF} \"out/Proposta\ de\ Trabalho\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf"
 
@@ -47,7 +48,7 @@ task :artigo do
 
   system "pandoc -f markdown+raw_tex artigo.md --data-dir=. --template=artigo --filter pandoc_abnt -o #{ARTIGO_LATEX} #{inclui_apendices} #{inclui_anexos} --top-level-division=section"
 
-  system "latexmk -f -silent -pdf #{ARTIGO_LATEX}"
+  system "latexmk -f #{SILENT} -pdf #{ARTIGO_LATEX}"
 
   system "mv #{ARTIGO_PDF} out/\"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf"
   system "./static_check.sh"
