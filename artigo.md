@@ -1,12 +1,11 @@
 ---
 titulo: "Benefícios secundários e qualitativos do mapeamento de processos para a cultura organizacional: estudo de caso de uma empresa de pequeno porte"
-title: "Secondary and qualitative benefits to an organization's culture when mapping processes: case study of a brazillian small sized company"
 autor: "Luiz Gonzaga dos Santos Filho"
 orientador: "Prof. Dr. Fernando Hadad Zaidan"
-resumo: "O resumo de relatório deve ser obrigatoriamente informativo, dando ao leitor a oportunidade de decidir se é ou não necessária a leitura completa do material. Atenção: não use TAB na primeira linha, fonte Arial tamanho 12, uso de espaço simples entre linhas e alinhamento justificado."
-abstract: "Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. Abstract text here. "
-palavrasChave: "latex. abntex. editoração de texto."
-keywords: "latex. abntex. text editing"
+resumo: "Na busca por competitividade e inovação, cada vez mais as organizações acreditam que otimizar processos é a melhor opção para cortar custos e aumentar sua eficiência e produtividade. Todavia, especialmente se o momento é de crise ou contenção de gastos, um empreendimento como o de implantação de Gestão de Processos em uma organização rapidamente se torna um investimento de retorno questionável perante ao risco inerente do empreendimento e ao cenário de crise. Todavia, mesmo uma implantação parcial de Gestão de Processos em uma organização já pode começar a gerar benefícios, e, muitas vezes, alguns destes benefícios podem passar desapercebidos numa primeira análise. Destarte, ter consciência e deliberadamente ponderar tais benefícios pode ajudar ainda mais uma organização na decisão de adotar a Gestão de Processos ou não."
+abstract: "//TODO traduzir versão final do resumo aqui"
+palavrasChave: "Gestão de Processos de Negócio. Produtividade. Cultura organizacional. Inovação."
+keywords: "Business Process Management. Productivity. Organizational culture. Innovation."
 ---
 
 # Introdução
@@ -29,7 +28,7 @@ Para este artigo, foi realizada uma revisão bibliográfica sobre BPM e BPR, em 
 
 Também foi foi escolhida uma empresa de pequeno porte para servir de caso de uso. Nesta empresa já aconteceram esforços de modelagem de processos no passado, então isso a torna ideal para ter seu caso estudado neste artigo. Nela foi conduzida uma pesquisa com desdobramentos quantitativos e também qualitativos sobre o resultados desses prévios esforços.
 
-Todos os processos modelados em questão dizem respeito ao departamento de desenvolvimento de software da empresa; assim sendo, a pesquisa foi conduzida neste departamento e também nos departamentos que interagiam com o mesmo diariamente, quais sejam: o departamento de suporte e o departamento de projetos. Adicionalmente, foi entrevistado também o diretor de tecnologia da empresa, que também é sócio fundador, que carrega o papel de maior stakeholder do empreendimento.
+Todos os processos modelados em questão dizem respeito ao departamento de desenvolvimento de software da empresa; assim sendo, a pesquisa foi conduzida neste departamento e também nos departamentos que interagiam com o mesmo diariamente, quais sejam: o departamento de suporte e o departamento de projetos. Adicionalmente, foi entrevistado também o diretor de tecnologia da empresa, que também é sócio fundador, que carrega o papel de maior *stakeholder* do empreendimento.
 
 Os dados foram colhidos de duas formas: 1) via uso de um questionário anônimo (para maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e 2) via entrevista um-a-um com colaboradores chave como líderes de equipe e diretor de tecnologia.
 
