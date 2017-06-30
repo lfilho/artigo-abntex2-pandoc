@@ -22,7 +22,8 @@
 	% -- opções do pacote babel --
 	english,			% idioma adicional para hifenização
 	brazil,				% o último idioma é o principal do documento
-	sumario=tradicional
+	sumario=tradicional,
+    oldfontcommands
 	]{abntex2}
 
 
@@ -52,6 +53,16 @@
 % ---
 
 % ---
+% Logo no cabeçalho
+% ---
+\let\footruleskip\undefined
+\usepackage{fancyhdr}
+\addtolength{\headheight}{1.5cm} % make more space for the header
+\pagestyle{fancyplain} % use fancy for all pages except chapter start
+\lhead{\includegraphics[height=1.3cm]{igti}} % left logo
+\renewcommand{\headrulewidth}{0pt} % remove rule below header
+% ---
+% ---
 % Configurações do pacote backref
 % Usado sem a opção hyperpageref de backref
 \renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
@@ -74,12 +85,6 @@
 \titulo{$titulo$}
 \autor{$autor$}
 \orientador[Orientador: ]{$orientador$}
-\instituicao{%
-    Instituto de Gestão em TI -- IGTI
-    \par
-    MBA em Análise de Processos de Negócio
-    \par
-    Turma APN162A}
 \local{Brasil}
 \data{\today}
 % ---
@@ -194,13 +199,13 @@
 %
 %---
 % página de titulo
-\maketitle
-\begin{center}
-    \imprimirinstituicao
-    \par
-    \imprimirorientadorRotulo \imprimirorientador
-\end{center}
-\pagebreak
+% \maketitle
+\MakeUppercase{\textbf{\imprimirtitulo}}
+\begin{flushright}
+    \imprimirautor \footnote{Aluno do curso de MBA em Análise de Processos de Negócio no IGTI. Engenheiro de Computação pela Universidade Federal de Goiás. Email: lfilho@gmail.com} \\
+    MBA em Análise de Processos de Negócio \\
+    \imprimirorientadorRotulo \imprimirorientador \footnote{Doutor em Ciência da Informação pela UFMG e professor de MBA no Instituto de Gestão em Tecnologia da Informação. Email: fhzaidan@gmail.com}
+\end{flushright}
 
 % resumo em português
 \begin{resumoumacoluna}
@@ -212,32 +217,6 @@
  \noindent
  \textbf{Palavras-chave}: $palavrasChave$
 \end{resumoumacoluna}
-
-% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
-% ---
-
-% ----------------------------------------------------------
-% ELEMENTOS TEXTUAIS
-% ----------------------------------------------------------
-\textual
-
-$body$
-
-% ----------------------------------------------------------
-% ELEMENTOS PÓS-TEXTUAIS
-% ----------------------------------------------------------
-\postextual
-
-% ---
-% Título e resumo em língua estrangeira
-% ---
-
-% \twocolumn[    		% INICIO DE ARTIGO EM DUAS COLUNAS
-
-% titulo em inglês
-\titulo{$title$}
-\emptythanks
-\maketitle
 
 % resumo em inglês
 \renewcommand{\resumoname}{Abstract}
@@ -254,6 +233,18 @@ $body$
 
 % ]  				% FIM DE ARTIGO EM DUAS COLUNAS
 % ---
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+$body$
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
 
 % ----------------------------------------------------------
 % Referências bibliográficas
