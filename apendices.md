@@ -1,9 +1,9 @@
 \apendices
 
-# Primeiro apêndice {#apendice:primeiro}
+# Questionário aplicado {#apendice:questionario}
 
-Texto. Ver \autoref{apendice:segundo}.
+Texto. Ver \autoref{apendice:entrevista}.
 
-# Segundo apêndice {#apendice:segundo}
+# Roteiro das entrevistas conduzidas {#apendice:entrevista}
 
-Texto. Ver \autoref{apendice:primeiro}.
+Texto. Ver \autoref{apendice:questionario}.

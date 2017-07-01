@@ -1,7 +1,7 @@
 require 'rake/clean'
 
 # Altere esses valores para falso, caso não deseje utilizar os anexos ou apêndices.
-ANEXOS=true
+ANEXOS=false
 APENDICES=true
 PLANO_DE_TRABALHO=true
 
