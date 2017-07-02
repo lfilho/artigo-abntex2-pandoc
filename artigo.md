@@ -34,25 +34,27 @@ A análise dos dados foi feita descritiva e correlacionalmente.
 
 # Revisão de literatura
 
-//TODO pequena introdução
+Os conceitos de Gestão, Reengenharia e Modelagem de Processos de Negócios são essenciais para entendermos como eles podem trazer os benefícios secundários que este artigo pesquisa e, para isso também, revisaremos quais são os benefícios primários prometidos por eles.
 
 ## Reengenharia de Processos de Negócio
 
-Toda organização tem seus processos de negócio. Mesmo que os mesmos não tenham sido deliberadamente planejados, nem frutos de um esforço formal de Gestão de Processos de Negócio. Não obstante eles existem em qualquer organização. Assim, todo processo de Gestão de Processos de Negócio (seja a implantação inicial ou uma melhoria no modelo existente), é, no fundo, um processo de Reengenharia também. Assim sendo, e para os fins deste artigo, diluiremos seu conceito com o próprio conceito de Gestão de Processos de Negócio.
+Toda organização possui seus processos de negócio, mesmo que eles não tenham sido deliberadamente planejados nem frutos de um esforço formal de Gestão de Processos de Negócio. Assim, todo processo de Gestão de Processos de Negócio (seja a implantação inicial ou uma melhoria no modelo existente), é, no fundo, um processo de Reengenharia de Processos. Para tanto, e tendo em vista o foco deste artigo, diluiremos seu conceito com o próprio conceito de Gestão de Processos de Negócio.
 
-## Gestão de Processos de Negócio
+## Processos de Negócio
 
-A definição processos (e, consequentemente, sua gestão) existe em diversos matizes, a depender do entendimento e interpretação de cada autor. Desde definições objetivas como a de Johansson que diz que um processo nada mais é que um conjunto de atividades que recebem um insumo (*input*) e o transforma em resultado (*output*) \cite{johansson1995processos}, até definições mais elaboradas e utilitaristas como a de Djalma de Oliveira, que diz que a gestão de processos é:
+A definição de processos (e, consequentemente, sua gestão) existe em diversos matizes, a depender do entendimento e interpretação de cada autor. Desde definições objetivas como a de Johansson que diz que um processo nada mais é que um conjunto de atividades que recebem um insumo (*input*) e o transforma em resultado (*output*) \cite{johansson1995processos}, até definições mais elaboradas e utilitaristas como a de Djalma de Oliveira, que diz que a gestão de processos é:
 
 > Um conjunto estruturado de atividades sequenciais que apresentam relação lógica entre si, com a finalidade de atender e, preferencialmente, suplantar as necessidades e as expectativas dos clientes externos e internos da empresa. \cite[p.~9]{oliveira2006administraccao}.
 
 É desta definição que prioriza o valor entregue por um processo que este artigo se valerá.
 
-## Modelagem de Processos
+## Modelagem de Processos e seus benefícios
 
-//TODO falar que é uma low hanging fruit, por ser relativamente fácil e rápido de se fazer e que mesmo o AS-IS já pode trazer bons resultados para empresa, as serem mostrados no decorrer do artigo
+A modelagem de processos é uma expressão gráfica de como as organizações executam seus processos \cite{enivaldobpm} e um dos principais artefados produzidos por um empreendimento de BPM. É só à partir dela que outras etapas da Gestão de Processos se dão, tais quais análises, automação ou monitoramentos de desempenho.
 
-## Benefícios primários de uma Gestão de Processos de Negócio
+A modelagem, dentre todas as possíveis etapas e produtos de um emprendimento BPM, é uma "fruta madura em galho baixo" pois os diagramas, resultados da mesma, são fáceis de entender quando comparados a outras formas de documentação, fornecem uma linha-base para a medição, facilitam o processo de simulação e análise de impacto mas, e não obstante, são relativamente rápidos, fáceis e baratos de se produzir \cite{enivaldobpm}.
+
+## Gestão de Processos de Negócio e seus benefícios primários
 
 Esta visão de que processos devem sempre ter em mente as expectativas dos clientes, por meio da agregação de valor, é cada vez mais aceita no mercado, como salienta Serra:
 
