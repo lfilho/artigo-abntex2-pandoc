@@ -16,7 +16,7 @@ Sabedores de tais informações, é entendível a eventual incredulidade dos res
 
 Assim, seria mister um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de obter os desejados patrocínios supracitados. E, ao passo que já conseguimos entender bem os benefícios primários de tal empreendimento, estritamente relacionados à processos em si, acredita-se haver ainda outros benefícios, secundários, por vezes ignorados.
 
-Mais além, estes mesmos benefícios secundários e qualitativos poderiam provar ser, por si só, essenciais e altamente quistos à uma organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a criação ou a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização \cite{robbins2000administraccao}.
+Mais além, estes mesmos benefícios secundários e qualitativos poderiam provar ser, por si só, essenciais e altamente quistos à uma organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a incidental criação ou a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização \cite{robbins2000administraccao}.
 
 Destarte, este trabalho visa identificar alguns destes possíveis benefícios secundários e corroborar e confortar os mesmos à realidade de uma empresa de pequeno porte.
 
@@ -24,11 +24,11 @@ Destarte, este trabalho visa identificar alguns destes possíveis benefícios se
 
 Para este artigo foi adotada uma abordagem qualitativa e o mesmo constitui-se de caráter exploratório. Para tal foi escolhida uma empresa de pequeno porte para servir de caso de uso. Nesta empresa já aconteceram esforços de modelagem de processos no passado, tornando-a ideal para ter seu caso estudado. Nela foi conduzida uma pesquisa com desdobramentos quantitativos e também qualitativos sobre o resultados desses prévios esforços.
 
-Todos os processos modelados em questão dizem respeito ao departamento de desenvolvimento de software da empresa; assim sendo, a pesquisa foi conduzida neste departamento e também nos departamentos que interagiam com o mesmo diariamente, quais sejam: o departamento de suporte e o departamento de projetos. Adicionalmente, foi entrevistado também o diretor de tecnologia da empresa, que também é sócio fundador, que carrega o papel de maior *stakeholder* do empreendimento.
+Todos os processos modelados em questão dizem respeito ao departamento de desenvolvimento de software da empresa; assim sendo, a pesquisa foi conduzida neste departamento e também nos departamentos que interagem com o mesmo diariamente, quais sejam: o departamento de suporte e o departamento de projetos. Adicionalmente, foi entrevistado também o diretor de tecnologia da empresa, que também é sócio fundador, que desempenha o papel de maior *stakeholder* do empreendimento.
 
 Também foi realizada uma revisão bibliográfica sobre BPM e BPR, em especial os principais benefícios que estas disciplinas prometem trazer àqueles que buscam aplicá-las, bem como as dificuldades ao fazê-lo.
 
-Os dados para este trabalho foram colhidos através de questionário, entrevista e observação. O questionário foi conduzido de forma anônima (para maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa.
+Os dados para este trabalho foram colhidos através de questionário, entrevista e observação. O questionário foi conduzido de forma anônima (visando maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa.
 
 A análise dos dados foi feita descritiva e correlacionalmente.
 
@@ -38,7 +38,7 @@ A análise dos dados foi feita descritiva e correlacionalmente.
 
 ## Reengenharia de Processos de Negócio
 
-//TODO falar que toda gestão de processos de negócio é, no fundo, uma Reengenharia, pois processos sempre existem, mesmo que não documentados ou deliberados... (buscar fonte)
+Toda organização tem seus processos de negócio. Mesmo que os mesmos não tenham sido deliberadamente planejados, nem frutos de um esforço formal de Gestão de Processos de Negócio. Não obstante eles existem em qualquer organização. Assim, todo processo de Gestão de Processos de Negócio (seja a implantação inicial ou uma melhoria no modelo existente), é, no fundo, um processo de Reengenharia também. Assim sendo, e para os fins deste artigo, diluiremos seu conceito com o próprio conceito de Gestão de Processos de Negócio.
 
 ## Gestão de Processos de Negócio
 
