@@ -28,7 +28,7 @@ Todos os processos modelados em questão dizem respeito ao departamento de desen
 
 Também foi realizada uma revisão bibliográfica sobre BPM e BPR, em especial os principais benefícios que estas disciplinas prometem trazer àqueles que buscam aplicá-las, bem como as dificuldades ao fazê-lo.
 
-Os dados para este trabalho foram colhidos através de questionário, entrevista e observação. O questionário foi conduzido de forma anônima (visando maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa.
+Os dados para este trabalho foram colhidos através de questionário (ver \autoref{apendice:questionario}), entrevista (ver \autoref{apendice:entrevista}) e observação do autor. O questionário foi conduzido de forma anônima (visando maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa. No total foram [TODO número de respondentes] respondentes ao questionário e [TODO número de entrevistados] entrevistados.
 
 A análise dos dados foi feita descritiva e correlacionalmente.
 
@@ -67,19 +67,26 @@ Em termos gerais, estes benefícios são sempre objetivos, mensuráveis ou enqua
 Indubitavelmente, os benefícios tangíveis são o primeiro alvo dos líderes de qualquer organização ao se considerar quaisquer tipo de melhorias. Todavia, cada vez mais acredita-se que tais benefícios mensuráveis já não são a única coisa importante a se almejar em uma organização. Deveras, 94% dos líderes de negócios ao redor do mundo acreditam que valores intangíveis, como cultura organizacional, são importantes para os negócios \cite{pink2011drive} -- algo que o sociólogo W. B. Cameron já nos convida a refletir desde 1963: "Nem tudo o que pode ser contado conta, e nem tudo o que conta pode ser contado." \cite[p.~13]{cameron1963informal}
 
 // TODO: modelagem - diminuir essa lacuna de entendimento do que o negócio precisa
+
 // TODO: O desenho BPMN explicita o processo de negócio que está no conhecimento tácito das pessoas
 
 # Discussão dos resultados
 
 // TODO: Cultura - ver sessão "Culture" em Means of achieving business process management success factors
+
 // TODO: People - ver sessão "People" em Means of achieving business process management success factors
 
+// TODO: Ao passo que as organizações já entendem que o tradicional funcionamento isolado dos departamentos não mais atende aos requisitos do mercado contemporâneo (caracterizado por rápidas mudanças) \cite{pritchard1999business}, é difícil na realidade cotidiana de uma organização, criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. É aí que uma simples modelagem de processos pode ser um excelente primeiro passo, conforme corroborado pela pesquisa e questionário.
+
 # Considerações finais
+
+// TODO: Sabemos que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como pudemos perceber, mesmo este esforço inicial já é capas de trazer benefícios à uma organização.
 
 // TODO: segundo \cite{bandara2009means}, People, Culture, communication compõe 1/3 dos fatores de sucesso para se implantar uma BPM e tais fatores não são obtidos da noite pro dia, top-down, ou comprando algum novo software pra organização. é construído paulatinamente... e a paulatina e gradual modelagem de processos de uma organização contribue para todos esses 3 fatores por criar as oportunidades de melhoria, comunicação, liderança e desenvolvimento pessoal e engajamento ao mesmo tempo...
 
 # Notas explicativas (opcional)
 
+<!--
 # Exemplos de formatação:
 
 ## Quadro
@@ -103,4 +110,4 @@ Fonte: \cite{pink2011drive}.
 Fonte: \cite{pink2011drive}.
 
 Ver o \autoref{exemplo} e a \autoref{tabexemplo}.
-
+-->

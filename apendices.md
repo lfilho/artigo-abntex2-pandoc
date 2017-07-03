@@ -2,8 +2,16 @@
 
 # Questionário aplicado {#apendice:questionario}
 
-Texto. Ver \autoref{apendice:entrevista}.
+// TODO
 
 # Roteiro das entrevistas conduzidas {#apendice:entrevista}
 
-Texto. Ver \autoref{apendice:questionario}.
+// TODO
+
+- Você acha que a empresa se beneficiaria se esse mesmo trabalho de modelagem fosse feito nos demais departamentos?
+- Você, enquanto líder, o que você notou que mudou na sua equipe com esse tipo de conhecimento modelado?
+    - Produtividade?
+    - Engajamento?
+    - Curiosidade?
+    - Novas ideias?
+    - Outro...
