@@ -30,6 +30,8 @@ Também foi realizada uma revisão bibliográfica sobre BPM e BPR, em especial o
 
 Os dados para este trabalho foram colhidos através de questionário (ver \autoref{apendice:questionario}), entrevista (ver \autoref{apendice:entrevista}) e observação do autor. O questionário foi conduzido de forma anônima (visando maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa. No total foram [TODO número de respondentes] respondentes ao questionário e [TODO número de entrevistados] entrevistados.
 
+As entrevistas foram feitas posteriormente à coleta dos dados via questionário, de forma que tais resultados pudessem servir de insumos à entrevista, bem como correlacionados com a opinião especializada dos líderes de equipe.
+
 A análise dos dados foi feita descritiva e correlacionalmente.
 
 # Revisão de literatura
