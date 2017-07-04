@@ -34,6 +34,7 @@ Por fim, houve um campo aberto para comentários livres.
 
 // TODO
 
+- Revisar o resultado do questionário com o líder em questão
 - Você acha que a empresa se beneficiaria se esse mesmo trabalho de modelagem fosse feito nos demais departamentos?
 - Você, enquanto líder, o que você notou que mudou na sua equipe com esse tipo de conhecimento modelado?
     - Produtividade?
@@ -41,3 +42,7 @@ Por fim, houve um campo aberto para comentários livres.
     - Curiosidade?
     - Novas ideias?
     - Outro...
+- Você acha que que se a empresa tivesse uma cultura ainda mais voltada e preparada à inovação, a crise a teria afetado menos? Elabore.
+- Você acha que empreendimentos como o realizado ajudam a ter uma cultura assim? Elabore.
+- Teve alguma mudança positiva na equipe ou na empresa, que você acha que tenha surgido por causa desses esforços? Comente.
+- Se você fosse incubido por seu superior de por otimizar o processo de alguma forma (aumentar vazão, reduzir custos, etc), tais modelagens seriam de valia para você?
