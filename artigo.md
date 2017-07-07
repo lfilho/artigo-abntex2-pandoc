@@ -72,8 +72,6 @@ Para Bass, "a cultura organizacional é a 'cola' que segura a organização como
 
 A cultura organizacional é um fator de sucesso para empreendimentos BPM mas também é um dos fatores que não se podem alterar ou influenciar satisfatoriamente **durante** um empreendimento de BPM. É necessário que uma boa cultura organizacional já venha sendo cultivada bem antes do empreendimento começar \cite{bandara2009means}. Uma cultura pode ser responsável tanto por facilitar o progresso de um projeto BPM tanto para dificultá-lo \cite{tsai2003information}. Portanto, é mister para qualquer organização cuidar primeiramente da sua cultura interna antes de querer ousar grandes esforços em seus processos de negócio.
 
-// TODO: People - reler sessão "People" em Means of achieving business process management success factors
-
 ## Liderança e cultura transformacionais
 
 A cultura organizacional afeta a liderança tanto quanto a liderança afeta a cultura \cite{bass1993transformational}.
@@ -86,9 +84,9 @@ Por outro lado, Bass ainda nos diz que
 
 ## Pessoas
 
-Acreditar que "pessoas são os ativos mais valiosos da organização" é um dos fatores de sucesso de BPM \cite[p.~6]{bandara2009means}
+Acreditar que "pessoas são os ativos mais valiosos da organização" é um dos fatores de sucesso de BPM \cite[p.~6]{bandara2009means} e este é mais um dos fatores intangíveis mas ao mesmo imprescindíveis para o sucesso integral e sustentável de uma organização. Desconsiderar as pessoas e seu engajamento em uma organização pode comprometer todo o processo de Gestão de Processos pois afinal são elas que conduzirão o processo de mudança e sem o engajamento delas resistência e/ou falta de confiança na organização surgiriam e "resistência à mudança pode fazer um projeto BPM falhar" \cite[p.~12]{bandara2009means}.
 
-// TODO mais fontes sobre o valor das pessoas.
+Uma das formas de criação de engajamento entre os colaboradores recomendada é justamente "o envolvimento dos funcionários em alguma das atividades tais quais mapear processos que relacionam com seus deveres diários" (ibid.).
 
 # Apresentação da pesquisa
 
@@ -96,11 +94,15 @@ Indubitavelmente, os benefícios tangíveis são o primeiro alvo dos líderes de
 
 // TODO desenvolver mais
 
-## Diminuição nos tempos de contribuições iniciais
+## Da diminuição nos tempos de contribuições iniciais
 
-A chegada de um novo colaborador em uma organização é sempre uma queda de produtividade: colegas precisam gastar do seu tempo explicando diversos processos, procedimentos, valores culturais, técnicas, boas práticas, como as coisas funcionam, etc. Assim, um colaborador novato demora até "agregar valor" à organização efetivamente. E num mercado cada vez mais ágil onde o *time to market* é de extrema importância, a redução deste "atrito estático" é de vital importância para a competitividade da organização.
+A chegada de um novo colaborador em uma organização é sempre uma queda de produtividade e lucratividade: não só o colaborador novato ainda não está produzindo conforme esperado (enquanto a empresa paga seu salário) mas também os colegas precisam gastar do seu tempo explicando diversos processos, procedimentos, valores culturais, técnicas, boas práticas, como as coisas funcionam, etc. Assim, um colaborador novato demora até "agregar valor" à organização efetivamente. E num mercado cada vez mais ágil onde o *time to market* é de extrema importância, a redução deste "atrito estático" é de vital importância para a competitividade da organização.
 
 Naturalmente, além dessa contribuição tática (técnica), um colaborador novato, eventualmente pode questionar o que já existe como definido na organização e trazer contribuições estratégicas \cite{bass1993transformational}, isto, claro, se na organização houver uma cultura propícia e incentivada de colaboração e inovação. Destarte, as modelagens dos processos de negócio da organização seriam poderosas ferramentas para facilitar e acelerar tais contribuições estratégicas ou culturais visto que, na absência destes conhecimentos explícitos (se existissem somente de forma tácita, na cabeça das pessoas) tais colaborações demorariam muito mais a chegar -- se é que chegariam.
+
+<!-- Conforme podemos ver na \autoref{resultado-questao-1-1}, o empreendimento realizado na empresa do presente estudo de caso alcançou este benefício. -->
+
+<!-- \figuraigti{igti.png}{resultado-questao-1-1}{Resultado Questão 1-1}{Autor} -->
 
 # Discussão dos resultados
 

@@ -175,6 +175,20 @@
 \usepackage{pdfpages}
 \usepackage{longtable,ltcaption} % para as tabelas pandoc e quadros ABNT
 \usepackage[font={small,singlespacing}]{caption} % 10pt para rótulos de figuras
+\renewcommand{\ABNTEXcaptiondelim}{: }
+\captiondelim{\ABNTEXcaptiondelim}
+\captionsetup{justification=raggedright,font=small,skip=1pt,position=below,singlelinecheck=false}
+
+% Assinatura: arquivo, rotulo, legenda, fonte
+\newcommand{\figuraigti}[4]{%
+    \begin{figure}[htbp]
+        \begin{center}
+            \includegraphics[width=\textwidth]{#1}
+        \end{center}
+        \caption{\label{#2}#3}
+        \legend{Fonte: #4.}
+    \end{figure}
+}
 
 % ----
 % Início do documento
