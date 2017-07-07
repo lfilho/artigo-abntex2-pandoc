@@ -2,7 +2,7 @@
 titulo: "Benefícios secundários e qualitativos do mapeamento de processos para a cultura organizacional: estudo de caso de uma empresa de pequeno porte"
 autor: "Luiz Gonzaga dos Santos Filho"
 orientador: "Prof. Dr. Fernando Hadad Zaidan"
-resumo: "Na busca por competitividade e inovação, cada vez mais as organizações acreditam que otimizar processos é a melhor opção para cortar custos e aumentar sua eficiência e produtividade. Todavia, especialmente se o momento é de crise ou contenção de gastos, um empreendimento como o de implantação de Gestão de Processos em uma organização rapidamente se torna um investimento de retorno questionável perante ao risco inerente do empreendimento e ao cenário de crise. Todavia, mesmo uma implantação parcial de Gestão de Processos em uma organização já começar a gerar benefícios, e, muitas vezes, alguns destes benefícios passam desapercebidos numa primeira análise. Destarte, ter consciência e deliberadamente ponderar tais benefícios pode ajudar ainda mais uma organização na decisão de adotar a Gestão de Processos."
+resumo: "Na busca por competitividade e inovação, cada vez mais as organizações acreditam que otimizar processos é a melhor opção para cortar custos e aumentar sua eficiência e produtividade. Todavia, especialmente se o momento é de crise ou contenção de gastos, um empreendimento como o de implantação de Gestão de Processos em uma organização rapidamente se torna um investimento de retorno questionável perante ao risco inerente do empreendimento e ao cenário de crise. Ainda assim, mesmo uma implantação parcial de Gestão de Processos em uma organização já começa a gerar benefícios, e, muitas vezes, alguns destes benefícios passam desapercebidos numa primeira análise. Destarte, ter consciência e deliberadamente ponderar tais benefícios pode ajudar ainda mais uma organização na decisão de adotar a Gestão de Processos."
 abstract: "//TODO traduzir versão final do resumo aqui"
 palavrasChave: "Gestão de Processos de Negócio. Produtividade. Cultura organizacional. Inovação."
 keywords: "Business Process Management. Productivity. Organizational culture. Innovation."
@@ -10,9 +10,9 @@ keywords: "Business Process Management. Productivity. Organizational culture. In
 
 # Introdução
 
-Ao se pensar em um empreendimento de implantação de Gestão de Processos de Negócios (*Business Process Management* - BPM) -- doravante apenas "empreendimento" -- muitos são os fatores críticos de sucesso, a citar: cultura, liderança, comunicação, tecnologia da informação, alinhamento estratégico, pessoas, gestão de projetos, mensuração de performance e metodologia. \cite[p.~5]{bandara2009means}. Por outro lado, mais numerosos ainda são os fatores de fracasso, entre eles a falta de recursos (financeiros, temporais, de pessoal, entre outros) disponíveis para tal empreendimento \cite[p.~18-19]{al1999bpr}.
+Ao se pensar em um empreendimento de implantação de Gestão de Processos de Negócios (*Business Process Management* - BPM) -- doravante apenas "empreendimento" -- muitos são os fatores críticos de sucesso, a citar: cultura, liderança, comunicação, tecnologia da informação, alinhamento estratégico, pessoas, gestão de projetos, mensuração de performance e metodologia. \cite{bandara2009means}. Por outro lado, mais numerosos ainda são os fatores de fracasso, entre eles a falta de recursos (financeiros, temporais, de pessoal, entre outros) disponíveis para tal empreendimento \cite{al1999bpr}.
 
-Sabedores de tais informações, é entendível a eventual incredulidade dos responsáveis das organizações, em especial das de pequeno porte, sobre a eficácia e viabilidade de tal empreendimento. Assim, esforços em prol deste empreendimento usualmente não seguem adiante por falta de patrocínio (cultural ou financeiro) e tal situação é especialmente presente em países em crise \cite[p.~2-4]{marques2014diagnostico}.
+Sabedores de tais informações, é entendível a eventual incredulidade dos responsáveis das organizações, em especial das de pequeno porte, sobre a eficácia e viabilidade de tal empreendimento. Assim, esforços em prol deste empreendimento usualmente não seguem adiante por falta de patrocínio (cultural ou financeiro) e tal situação é especialmente presente em países em crise \cite{marques2014diagnostico}.
 
 Todavia, a modelagem de processos não só pode fomentar a inovação e consequente saída da empresa de uma crise (ou a obtenção de maior competitividade e lucratividade, independente de cenário de crise) (ibid.) como também pode trazer mudanças profundas à cultura da empresa e ao engajamento dos funcinários.
 
@@ -68,27 +68,33 @@ Assim, a modelagem rapidamente se torna um valioso recurso para a necessária di
 
 ## Cultura Organizacional
 
-Para Bass, "a cultura organizacional é a 'cola' que segura a organização como uma fonte de identidade e compentência distintiva"  \cite{bass1990handbook}.
+Para Bass, "a cultura organizacional é a 'cola' que segura a organização como uma fonte de identidade e compentência distintiva"  \cite{bass1990handbook}. É o conjunto de "valores, crenças, atitudes e comportamentos das pessoas que distinguem um grupo ou categoria de pessoas de outro" \cite{hofstede1993cultural}.
 
-// TODO outra definição de cultura organizacional, mais tradicional e descritiva
+A cultura organizacional é um fator de sucesso para empreendimentos BPM mas também é um dos fatores que não se podem alterar ou influenciar satisfatoriamente **durante** um emprendimento de BPM. É necessário que uma boa cultura organizacional já venha sendo cultivada bem antes do empreendimento começar \cite{bandara2009means}. Uma cultura pode ser responsável tanto por facilitar o progresso de um projeto BPM tanto para dificultá-lo \cite{tsai2003information}. Portanto, é mister para qualquer organização cuidar primeiramente da sua cultura interna antes de querer ousar grandes esforços em seus processos de negócio.
 
-// TODO: Cultura - ver sessão "Culture" em Means of achieving business process management success factors
+// TODO: People - reler sessão "People" em Means of achieving business process management success factors
 
-// TODO: People - ver sessão "People" em Means of achieving business process management success factors
-
-## Liderença e cultura transformacionais
+## Liderança e cultura transformacionais
 
 A cultura organizacional afeta a liderança tanto quanto a liderança afeta a cultura \cite{bass1993transformational}.
 
-No mercado hodierno, vê-se cada vez mais a necessidade de uma cultura organizacional e líderes que estejam evoluindo e buscando a inovação a cada oportunidade, a fim de levar a organização à seus objetivos e à sua visão. Este tipo de cultura e líderes são chamados de "transformacionais". Eles se contrapõem aos tradicionais líderes e culturas ditos "transacionais". Estes se baseam e se constroem em regras, normas e procedimentos. Conspicuamente, tal cultura e liderança apenas se retro-alimentarão, tendendo a manter o *status quo* \cite[p.~113]{bass1993transformational}.
+No mercado hodierno, vê-se cada vez mais a necessidade de uma cultura organizacional e líderes que estejam evoluindo e buscando a inovação a cada oportunidade, a fim de levar a organização à seus objetivos e à sua visão. Este tipo de cultura e líderes são chamados de "transformacionais". Eles se contrapõem aos tradicionais líderes e culturas ditos "transacionais" -- estes se baseam e se constroem em regras, normas e procedimentos. Conspicuamente, "tal cultura e liderança apenas se retro-alimentarão, tendendo a manter o *status quo*" \cite[p.~113]{bass1993transformational}.
 
 Por outro lado, Bass ainda nos diz que
 
 > Em uma cultura inovativa, os líderes [transformacionais] se baseam em premissas tais quais: pessoas são confiáveis e com propósito; todos tem uma contribuição única a dar; e problemas complexos são lidados no nível mais baixo possível [...] Eles fomentam um cultura de mudança criativa e crescimento ao invés de manter o *status quo*. [...] Eles integram perspicácia criativa, persistência e energia, intuição e sensitividade para as necessidades dos outros a fim de "forjar a liga estratégia-cultura" para suas organizações (ibid.).
 
+## Pessoas
+
+Acreditar que "pessoas são os ativos mais valiosos da organização" é um dos fatores de sucesso de BPM \cite[p.~6]{bandara2009means}
+
+// TODO mais fontes sobre o valor das pessoas.
+
 # Apresentação da pesquisa
 
 Indubitavelmente, os benefícios tangíveis são o primeiro alvo dos líderes de qualquer organização ao se considerar quaisquer tipo de melhorias. Todavia, cada vez mais acredita-se que tais benefícios mensuráveis já não são a única coisa importante a se almejar em uma organização. Deveras, 94% dos líderes de negócios ao redor do mundo acreditam que valores intangíveis, como cultura organizacional, são importantes para os negócios \cite{pink2011drive} -- algo que o sociólogo W. B. Cameron já nos convida a refletir desde 1963: "Nem tudo o que pode ser contado conta, e nem tudo o que conta pode ser contado." \cite[p.~13]{cameron1963informal}
+
+// TODO desenvolver mais
 
 ## Diminuição nos tempos de contribuições iniciais
 
@@ -115,6 +121,12 @@ Naturalmente, além dessa contribuição tática (técnica), um colaborador nova
 // TODO ou retirar
 
 <!--
+Inovar é a base de mudanças que as empresas precisam para sair do modelo atual e buscar um novo modelo mais rentável, provendo produtos mais customizados, adaptados às novas necessidades do mercado consumidor e com diferenciais sobre seus concorrentes. // apostila de spr, pag 9
+
+
+O processo de projetar um modelo de um sistema real e conduzir experimentos com este modelo com o propósito de entender seu comportamento e/ou avaliar estratégias para sua operação
+
+
 # Exemplos de formatação:
 
 ## Figura

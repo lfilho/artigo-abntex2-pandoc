@@ -38,7 +38,7 @@
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
 \usepackage[utf8]{inputenc}		% Codificação do documento (conversão automática dos acentos)
-\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+% \usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
 \usepackage{nomencl} 			% Lista de simbolos
 \usepackage{color}				% Controle das cores
 \usepackage{graphicx}			% Inclusão de gráficos
@@ -133,7 +133,7 @@
 % ---
 
 % O tamanho do parágrafo é dado por:
-\setlength{\parindent}{1.3cm}
+\setlength{\parindent}{0cm}
 
 % Controle do espaçamento entre um parágrafo e outro:
 \setlength{\parskip}{6pt}  % tente também \onelineskip
@@ -199,41 +199,59 @@
 % \twocolumn[    		% INICIO DE ARTIGO EM DUAS COLUNAS
 %
 %---
-% página de titulo
-% \maketitle
-\MakeUppercase{\textbf{\imprimirtitulo}}
+% Título centralizado e em caixa alta:
+\begin{center}
+    \normalsize
+    \MakeUppercase{\textbf{\imprimirtitulo}}
+\end{center}
+
+% Aluno, curso e orientador alinhado à direita:
 \begin{flushright}
     \imprimirautor \footnote{Aluno do curso de MBA em Análise de Processos de Negócio no IGTI. Engenheiro de Computação pela Universidade Federal de Goiás. Email: lfilho@gmail.com} \\
     MBA em Análise de Processos de Negócio \\
     \imprimirorientadorRotulo \imprimirorientador \footnote{Doutor em Ciência da Informação pela UFMG e professor de MBA no Instituto de Gestão em Tecnologia da Informação. Email: fhzaidan@gmail.com}
 \end{flushright}
 
+% ----------------------------------------------------------
+% Resumos e palavras chave:
+% ----------------------------------------------------------
+
+\setlength\absleftindent{0cm}
+\setlength\absrightindent{0cm}
+\renewcommand{\absnamepos}{flushleft}
+\renewcommand{\abstracttextfont}{\normalfont\normalsize}
+\renewcommand{\abstractnamefont}{\normalfont\normalsize\bfseries}
+
 % resumo em português
-\begin{resumoumacoluna}
- \normalsize
- $resumo$
+\begin{abstract}
+    $resumo$
 
- \vspace{\onelineskip}
+    \vspace{\onelineskip}
+    \noindent
 
- \noindent
- \textbf{Palavras-chave}: $palavrasChave$
-\end{resumoumacoluna}
+    \textbf{Palavras-chave}: $palavrasChave$
+\end{abstract}
 
 % resumo em inglês
-\renewcommand{\resumoname}{Abstract}
-\begin{resumoumacoluna}
- \begin{otherlanguage*}{english}
-   \normalsize
-   $abstract$
-   \vspace{\onelineskip}
+\renewcommand{\abstractname}{Abstract}
+\begin{abstract}
+    \begin{otherlanguage*}{english}
+        $abstract$
 
-   \noindent
-   \textbf{Keywords}: $keywords$
- \end{otherlanguage*}
-\end{resumoumacoluna}
+        \vspace{\onelineskip}
+        \noindent
 
-% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
+        \textbf{Keywords}: $keywords$
+    \end{otherlanguage*}
+\end{abstract}
+
 % ---
+\setsecheadstyle{\normalfont\normalsize\bfseries\MakeUppercase}
+\setsecindent{2em}
+\setsubsecheadstyle{\normalfont\normalsize\bfseries}
+\setsubsecindent{2em}
+\setbeforesecskip{-\onelineskip}
+\setaftersecskip{\onelineskip}
 
 % ----------------------------------------------------------
 % ELEMENTOS TEXTUAIS
@@ -250,6 +268,7 @@ $body$
 % ----------------------------------------------------------
 % Referências bibliográficas
 % ----------------------------------------------------------
+\renewcommand{\bibsection}{\normalfont\normalsize\textbf{\MakeUppercase{\hspace{2em}\bibname}}}
 \bibliography{referencias}
 
 $for(include-after)$
