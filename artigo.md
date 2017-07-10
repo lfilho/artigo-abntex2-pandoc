@@ -88,25 +88,33 @@ Acreditar que "pessoas são os ativos mais valiosos da organização" é um dos 
 
 Uma das formas de criação de engajamento entre os colaboradores recomendada é justamente "o envolvimento dos funcionários em alguma das atividades tais quais mapear processos que relacionam com seus deveres diários" (ibid.).
 
-# Apresentação da pesquisa
+# Apresentação da pesquisa e estudo de caso
 
 Indubitavelmente, os benefícios tangíveis são o primeiro alvo dos líderes de qualquer organização ao se considerar quaisquer tipo de melhorias. Todavia, cada vez mais acredita-se que tais benefícios mensuráveis já não são a única coisa importante a se almejar em uma organização. Deveras, 94% dos líderes de negócios ao redor do mundo acreditam que valores intangíveis, como cultura organizacional, são importantes para os negócios \cite{pink2011drive} -- algo que o sociólogo W. B. Cameron já nos convida a refletir desde 1963: "Nem tudo o que pode ser contado conta, e nem tudo o que conta pode ser contado." \cite[p.~13]{cameron1963informal}
 
-// TODO desenvolver mais
+A empresa utilizada neste estudo continha, à época, cerca de 49 colaboradores dos quais [TODO número de respondentes] foram escolhidos para responderem ao questionário. Entre eles a maioria são membros da equipe de desenvolvimento de software (desenvolvedores, testadores, analistas de requisitos e documentadores). Mas também houve representantes das equipes de suporte, gestão de projetos, comercial e direção técnica.
+
+Para as entrevistas [TODO número de entrevistados], foram elencados líderes de equipes de desenvolvimento, um analista de requisitos e o diretor técnico da empresa.
+
+O presente trabalho se baseia em hipóteses sobre quais seriam alguns destes benefícios intangíveis provenientes de uma Gestão de Processos (ou mesmo de uma mera modelagem de processos), bem como se os mesmos tiveram um impacto positivo na cultura da empresa. Tais hipóteses foram endereçadas pelas perguntas do questionário (ver \autoref{apendice:questionario}) e da entrevista (ver \autoref{apendice:entrevista}) e os respectivos resultados serão descritos na seção de "Discussão dos resultados".
 
 ## Da diminuição nos tempos de contribuições iniciais
 
-A chegada de um novo colaborador em uma organização é sempre uma queda de produtividade e lucratividade: não só o colaborador novato ainda não está produzindo conforme esperado (enquanto a empresa paga seu salário) mas também os colegas precisam gastar do seu tempo explicando diversos processos, procedimentos, valores culturais, técnicas, boas práticas, como as coisas funcionam, etc. Assim, um colaborador novato demora até "agregar valor" à organização efetivamente. E num mercado cada vez mais ágil onde o *time to market* é de extrema importância, a redução deste "atrito estático" é de vital importância para a competitividade da organização.
+A chegada de um novo colaborador em uma organização é sempre uma queda de produtividade e, consequentemente, lucratividade: não só o colaborador novato ainda não está produzindo conforme esperado (no entanto a empresa paga seu salário integral) mas também os colegas precisam gastar do seu tempo explicando diversos processos, procedimentos, valores culturais, técnicas, boas práticas, como as coisas funcionam, etc. Assim, um colaborador novato leva tempo até "agregar valor" à organização efetivamente. E num mercado cada vez mais ágil onde o *time to market* é de extrema importância, a redução deste "atrito estático" é de vital importância para a competitividade da organização.
 
-Naturalmente, além dessa contribuição tática (técnica), um colaborador novato, eventualmente pode questionar o que já existe como definido na organização e trazer contribuições estratégicas \cite{bass1993transformational}, isto, claro, se na organização houver uma cultura propícia e incentivada de colaboração e inovação. Destarte, as modelagens dos processos de negócio da organização seriam poderosas ferramentas para facilitar e acelerar tais contribuições estratégicas ou culturais visto que, na absência destes conhecimentos explícitos (se existissem somente de forma tácita, na cabeça das pessoas) tais colaborações demorariam muito mais a chegar -- se é que chegariam.
+Naturalmente, além dessa contribuição tática (técnica), um colaborador novato eventualmente pode questionar o que já existe como definido na organização e trazer contribuições estratégicas \cite{bass1993transformational}, isto, claro, se na organização houver uma cultura propícia e incentivada de colaboração e inovação. Destarte, as modelagens dos processos de negócio da organização seriam poderosas ferramentas para facilitar e acelerar tais contribuições estratégicas ou culturais visto que, na absência destes conhecimentos explícitos (se existissem somente de forma tácita, na cabeça das pessoas) tais colaborações demorariam muito mais a chegar -- se é que chegariam.
 
-<!-- Conforme podemos ver na \autoref{resultado-questao-1-1}, o empreendimento realizado na empresa do presente estudo de caso alcançou este benefício. -->
+Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e conforme a \autoref{resultado-questao-1}:
 
-<!-- \figuraigti{igti.png}{resultado-questao-1-1}{Resultado Questão 1-1}{Autor} -->
+//TODO imagem real:
+
+\figuraigti{imagens/chartexample.png}{resultado-questao-1}{Resultado Questão 1}{O autor, 2017}
+
+Podemos ver que o benefício foi alcançado, onde //TODO dos entrevistados X% acham isso, Y% aquilo...
 
 # Discussão dos resultados
 
-// TODO
+// TODO comparar todos os gráficos... Notar como todos os benefícios esperados foram alcançados e como o consenso foi grande entre os entrevistados / questionados...
 
 # Considerações finais
 
@@ -130,12 +138,6 @@ O processo de projetar um modelo de um sistema real e conduzir experimentos com 
 
 
 # Exemplos de formatação:
-
-## Figura
-
-![Título](igti.png){#rotulo largura=100%}
-
-Fonte: Autor.
 
 ## Quadro
 
