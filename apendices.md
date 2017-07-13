@@ -32,8 +32,6 @@ Por fim, houve um campo aberto para comentários livres.
 
 # Roteiro das entrevistas conduzidas {#apendice:entrevista}
 
-// TODO
-
 1. Revisar o resultado do questionário com o líder em questão
 2. Você acha que a empresa se beneficiaria se esse mesmo trabalho de modelagem fosse feito nos demais departamentos?
 3. O que você, enquanto líder, notou que mudou na sua equipe com esse tipo de conhecimento modelado?
@@ -47,3 +45,4 @@ Por fim, houve um campo aberto para comentários livres.
 6. Teve alguma mudança positiva na equipe ou na empresa, que você acha que tenha surgido por causa desses esforços? Comente.
 7. Se você fosse incubido por seu superior de por otimizar o processo de alguma forma (aumentar vazão, reduzir custos, etc), tais modelagens seriam de valia para você?
 8. Você acha que a cultura da empresa (ou do departamento em questão) mudou de alguma forma após esse empreendimento?
+9. Outros comentários?

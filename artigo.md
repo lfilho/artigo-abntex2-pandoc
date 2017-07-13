@@ -32,7 +32,7 @@ Todos os processos modelados em questão dizem respeito ao departamento de desen
 
 Também foi realizada uma revisão bibliográfica sobre BPM, em especial os principais benefícios que estas disciplinas prometem trazer àqueles que buscam aplicá-las, bem como as dificuldades ao fazê-lo.
 
-Os dados para este trabalho foram colhidos através de questionário (ver \autoref{apendice:questionario}), entrevista (ver \autoref{apendice:entrevista}) e observação do autor. O questionário foi conduzido de forma anônima (visando maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa. Foram [**TODO número de respondentes**] respondentes ao questionário (o que corresponde a, aproximadamente, dois terços do número de colaboradores da empresa) e [**TODO número de entrevistados**] entrevistados.
+Os dados para este trabalho foram colhidos através de questionário (ver \autoref{apendice:questionario}), entrevista (ver \autoref{apendice:entrevista}) e observação do autor. O questionário foi conduzido de forma anônima (visando maior liberdade e honestidade nas respostas dos entrevistados), respondido por colaboradores e ex-colaboradores da empresa supracitada e as entrevistas foram feitas um-a-um com colaboradores chave tais quais líderes de equipe e o diretor de tecnologia da empresa. Foram 27 respondentes ao questionário e 5 líderes entrevistados.
 
 As entrevistas foram feitas posteriormente à coleta dos dados via questionário, de forma que os resultados destes pudessem servir de insumos àquela, bem como correlacionados com a opinião especializada dos líderes de equipe.
 
@@ -92,9 +92,9 @@ Uma das formas de criação de engajamento entre os colaboradores recomendada é
 
 Indubitavelmente, os benefícios tangíveis são o primeiro alvo dos líderes de qualquer organização ao se considerar quaisquer tipo de melhorias. Todavia, cada vez mais acredita-se que tais benefícios mensuráveis já não são a única coisa importante a se almejar em uma organização. Deveras, 94% dos líderes de negócios ao redor do mundo acreditam que valores intangíveis, como cultura organizacional, são importantes para os negócios \cite{pink2011drive} -- algo que o sociólogo W. B. Cameron já nos convida a refletir desde 1963: "Nem tudo o que pode ser contado conta, e nem tudo o que conta pode ser contado." \cite[p.~13]{cameron1963informal}
 
-A empresa utilizada neste estudo continha, à época, cerca de 49 colaboradores dos quais [TODO número de respondentes] foram escolhidos para responderem ao questionário. Entre eles a maioria são membros da equipe de desenvolvimento de software (desenvolvedores, testadores, analistas de requisitos e documentadores). Mas também houve representantes das equipes de suporte, gestão de projetos, comercial e direção técnica.
+A empresa utilizada neste estudo continha, à época, cerca de 49 colaboradores dos quais 27 foram escolhidos para responderem ao questionário. Entre eles a maioria são membros da equipe de desenvolvimento de software (desenvolvedores, testadores, analistas de requisitos e documentadores). Mas também houve representantes das equipes de suporte, gestão de projetos, comercial e direção técnica.
 
-Para as entrevistas [TODO número de entrevistados], foram elencados líderes de equipes de desenvolvimento, um analista de requisitos e o diretor técnico da empresa.
+Para as entrevistas, foram elencados 4 líderes do departamento de desenvolvimento e o diretor técnico da empresa.
 
 O presente trabalho se baseia em hipóteses sobre quais seriam alguns destes benefícios intangíveis provenientes de uma Gestão de Processos (ou mesmo de uma mera modelagem de processos), bem como se os mesmos tiveram um impacto positivo na cultura da empresa. Tais hipóteses foram endereçadas pelas perguntas do questionário (ver \autoref{apendice:questionario}) e da entrevista (ver \autoref{apendice:entrevista}) e os respectivos resultados serão descritos na seção de "Discussão dos resultados".
 
@@ -106,15 +106,13 @@ Naturalmente, além dessa contribuição tática (técnica), um colaborador nova
 
 Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e conforme a \autoref{resultado-questao-1}:
 
-//TODO imagem real:
+\figuraigti{imagens/resultado-questao-1.png}{resultado-questao-1}{Resultado da Questão 1}{O autor, 2017}
 
-\figuraigti{imagens/chartexample.png}{resultado-questao-1}{Resultado Questão 1}{O autor, 2017}
-
-Podemos ver que o benefício foi alcançado, onde //TODO dos entrevistados X% acham isso, Y% aquilo...
+Podemos ver que o benefício foi alcançado, onde cerca de 63% dos entrevistados acreditam ter havido melhorias.
 
 # Discussão dos resultados
 
-// TODO comparar todos os gráficos... Notar como todos os benefícios esperados foram alcançados e como o consenso foi grande entre os entrevistados / questionados...
+// TODO comparar todos os gráficos... Notar como todos os benefícios esperados foram alcançados e como o consenso foi grande entre os entrevistados / questionados... Como foi consensual que não houve pioras...
 
 # Considerações finais
 
