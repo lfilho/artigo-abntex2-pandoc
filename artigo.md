@@ -106,9 +106,9 @@ Naturalmente, além dessa contribuição tática (técnica), um colaborador nova
 
 Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e conforme a \autoref{resultado-questao-1}:
 
-\figuraigti{imagens/resultado-questao-1.png}{resultado-questao-1}{Resultado da Questão 1}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-1.pdf}{resultado-questao-1}{Resultado da Questão 1}{O autor, 2017}
 
-Podemos ver que o benefício foi alcançado, onde cerca de 63% dos entrevistados acreditam ter havido melhorias.
+Podemos ver que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhorias.
 
 # Discussão dos resultados
 

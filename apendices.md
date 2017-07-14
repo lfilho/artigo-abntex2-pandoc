@@ -32,17 +32,16 @@ Por fim, houve um campo aberto para comentários livres.
 
 # Roteiro das entrevistas conduzidas {#apendice:entrevista}
 
-1. Revisar o resultado do questionário com o líder em questão
-2. Você acha que a empresa se beneficiaria se esse mesmo trabalho de modelagem fosse feito nos demais departamentos?
-3. O que você, enquanto líder, notou que mudou na sua equipe com esse tipo de conhecimento modelado?
+1. Você acha que a empresa se beneficiaria se esse mesmo trabalho de modelagem fosse feito nos demais departamentos?
+2. O que você, enquanto líder, notou que mudou na sua equipe com esse tipo de conhecimento modelado?
     - Produtividade?
     - Engajamento?
     - Curiosidade?
     - Novas ideias?
     - Outro...
-4. Você acha que que se a empresa tivesse uma cultura ainda mais voltada e preparada à inovação, a crise a teria afetado menos? Elabore.
-5. Você acha que empreendimentos como o realizado ajudam a ter uma cultura assim? Elabore.
-6. Teve alguma mudança positiva na equipe ou na empresa, que você acha que tenha surgido por causa desses esforços? Comente.
-7. Se você fosse incubido por seu superior de por otimizar o processo de alguma forma (aumentar vazão, reduzir custos, etc), tais modelagens seriam de valia para você?
-8. Você acha que a cultura da empresa (ou do departamento em questão) mudou de alguma forma após esse empreendimento?
-9. Outros comentários?
+3. Você acha que que se a empresa tivesse uma cultura ainda mais voltada e preparada à inovação, a crise a teria afetado menos? Elabore.
+4. Você acha que empreendimentos como o realizado ajudam a ter uma cultura assim? Elabore.
+5. Teve alguma mudança positiva na equipe ou na empresa, que você acha que tenha surgido por causa desses esforços? Comente.
+6. Se você fosse incubido por seu superior de por otimizar o processo de alguma forma (aumentar vazão, reduzir custos, etc), tais modelagens seriam de valia para você?
+7. Você acha que a cultura da empresa (ou do departamento em questão) mudou de alguma forma após esse empreendimento?
+8. Outros comentários?

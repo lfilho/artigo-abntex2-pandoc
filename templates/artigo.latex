@@ -183,8 +183,8 @@
 \newcommand{\figuraigti}[4]{%
     \begin{figure}[htbp]
         \begin{center}
-            % \includegraphics{#1}
-            \includegraphics[resolution=130]{#1}
+            \includegraphics{#1}
+            % \includegraphics[width=400pt,resolution=72]{#1}
         \end{center}
         \caption{\label{#2}#3}
         \legend{Fonte: #4.}
