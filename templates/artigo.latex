@@ -103,7 +103,7 @@
 		pdfauthor={\@author},
     	pdfsubject={Artigo Científico},
 	    pdfcreator={LaTeX with abnTeX2, Markdown and Pandoc},
-		pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico},
+		pdfkeywords={Gestão de Processos de Negócio}{Produtividade}{Cultura organizacional}{Inovação},
 		colorlinks=true,       		% false: boxed links; true: colored links
     	linkcolor=blue,          	% color of internal links
     	citecolor=blue,        		% color of links to bibliography
