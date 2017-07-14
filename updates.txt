@@ -1,0 +1,13 @@
+Updates
+
+  * Tradução do resumo para o Inglês
+  * Finalização das entrevitas
+  * Finalização do apêndice
+
+Próximos passos
+
+  * Melhorar o template dos apêndices pra ficar em conformidade com o tempalte do IGTI
+
+Questões
+
+  * O número de páginas e caracteres recomendados pelo IGTI é baseado no arquivo todo (isto é, incluindo pré e pós textuais)? Ou somente no texto principal?
