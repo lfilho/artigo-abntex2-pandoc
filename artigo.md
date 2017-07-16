@@ -98,21 +98,66 @@ Para as entrevistas, foram elencados 4 líderes do departamento de desenvolvimen
 
 O presente trabalho se baseia em hipóteses sobre quais seriam alguns destes benefícios intangíveis provenientes de uma Gestão de Processos (ou mesmo de uma mera modelagem de processos), bem como se os mesmos tiveram um impacto positivo na cultura da empresa. Tais hipóteses foram endereçadas pelas perguntas do questionário (ver \autoref{apendice:questionario}) e da entrevista (ver \autoref{apendice:entrevista}) e os respectivos resultados serão descritos na seção de "Discussão dos resultados".
 
-## Da diminuição nos tempos de contribuições iniciais
+## Da produtividade e celeridade de contribuições iniciais
 
-A chegada de um novo colaborador em uma organização é sempre uma queda de produtividade e, consequentemente, lucratividade: não só o colaborador novato ainda não está produzindo conforme esperado (no entanto a empresa paga seu salário integral) mas também os colegas precisam gastar do seu tempo explicando diversos processos, procedimentos, valores culturais, técnicas, boas práticas, como as coisas funcionam, etc. Assim, um colaborador novato leva tempo até "agregar valor" à organização efetivamente. E num mercado cada vez mais ágil onde o *time to market* é de extrema importância, a redução deste "atrito estático" é de vital importância para a competitividade da organização.
+A chegada de um novo colaborador em uma organização é sempre uma queda de produtividade e, consequentemente, lucratividade: não só o colaborador novato ainda não está produzindo conforme esperado (no entanto a empresa paga seu salário integral) mas também os colegas precisam gastar do seu tempo explicando diversos processos, procedimentos, valores culturais, técnicas, boas práticas, como as coisas funcionam, etc. Assim, um colaborador novato leva tempo até "agregar valor" à organização efetivamente. E num mercado cada vez mais ágil onde o *time to market* (o tempo que se leva para lançar um produto ou serviço no mercado) é de extrema importância, a redução deste "atrito estático" é de vital importância para a competitividade da organização.
 
 Naturalmente, além dessa contribuição tática (técnica), um colaborador novato eventualmente pode questionar o que já existe como definido na organização e trazer contribuições estratégicas \cite{bass1993transformational}, isto, claro, se na organização houver uma cultura propícia e incentivada de colaboração e inovação. Destarte, as modelagens dos processos de negócio da organização seriam poderosas ferramentas para facilitar e acelerar tais contribuições estratégicas ou culturais visto que, na absência destes conhecimentos explícitos (se existissem somente de forma tácita, na cabeça das pessoas) tais colaborações demorariam muito mais a chegar -- se é que chegariam.
 
-Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e conforme a \autoref{resultado-questao-1}:
+Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e conforme a \autoref{resultado-questao-1}.
 
 \figuraigti{imagens/resultado-questao-1.pdf}{resultado-questao-1}{Resultado da Questão 1}{O autor, 2017}
 
-Podemos ver que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhorias.
+Podemos ver que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhoras. Esta melhoria também foi explicitamente citada pelo "Líder 1" em sua resposta à Pergunta 5 (ver \autoref{apendice:resultado-entrevista}).
+
+Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também confirma a melhora de produtividade em diversas facetas.
+
+## Da explicitação e disseminação do conhecimento
+
+"O segredo para a criação do conhecimento está na mobilização e conversão do conhecimento tácito" \cite[p.~11]{zaidanconhecimento}. A modelagem de processos permite rapidamente esta explicitação do conhecimento sobre os processos de uma empresa e, conforme notamos na \autoref{resultado-questao-2}, houveram consideráveis melhoras nesta área também.
+
+\figuraigti{imagens/resultado-questao-2.pdf}{resultado-questao-2}{Resultado da Questão 2}{O autor, 2017}
+
+Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar os processos e assim identificar pontos de melhoria, abrindo portas, assim, para inovações na empresa que de outra forma talvez nunca viriam. Tal assertiva também foi corroborada pelas opiniões do "Líder 1" à Pergunta 2 e 7 e do "Líder 5" nas respostas às Perguntas 5 e 7.
+
+## Do entendimento e relacionamento inter e intradepartamental
+
+Outra hipótese era a de que o relacionamento entre diferentes equipes ou mesmo departamentos melhoria, uma vez que antes ninguém entendia (além da superficialidade) como determinadas equipes e departamentos funcionavam. Esta falta de informação pode levar colaboradores a criarem suposições falsas sobre como é o trabalho daquele departamento, criar cobranças e pressão por resultados baseados nessas suposições e assim corroborar para uma cultura e ambiente de trabalhos mais ásperos e estressantes.
+
+\figuraigti{imagens/resultado-questao-3.pdf}{resultado-questao-3}{Resultado da Questão 3}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-4.pdf}{resultado-questao-4}{Resultado da Questão 4}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-5.pdf}{resultado-questao-5}{Resultado da Questão 5}{O autor, 2017}
+
+Como o "Líder 2" diz em sua resposta à Pergunta 1, as modelagens melhoraram o convívio dentro da empresa. Os resultados do questionário, vistos na \autoref{resultado-questao-3}, na \autoref{resultado-questao-4} e na \autoref{resultado-questao-5} corroboram: a oportunidade de ver e entender as nuanças dos processos de um departamento (tanto o que você trabalha quanto outros) facilita a compreensão da complexidade daquele departamento, criando assim maior espaço para a empatia, a valorização e a confiança nos colegas realizadores daqueles processos.
+
+## Da cultura de inovação e da crise
+
+//TODO
+
+\figuraigti{imagens/resultado-questao-6.pdf}{resultado-questao-6}{Resultado da Questão 6}{O autor, 2017}
+
+Pergunta 3 e 4
+
+## Do desenvolvimento pessoal e engajamento
+
+//TODO
+
+\figuraigti{imagens/resultado-questao-6.pdf}{resultado-questao-6}{Resultado da Questão 6}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-7.pdf}{resultado-questao-7}{Resultado da Questão 7}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-8.pdf}{resultado-questao-8}{Resultado da Questão 8}{O autor, 2017}
+
+## Da continuidade de uma Gestão de Processos mais completa
+
+// TODO
+// Viram os benefícios, concordam com eles, concordam que tem que expandir
+
+\figuraigti{imagens/resultado-questao-9-a-11.pdf}{resultado-questao-9-a-11}{Resultado das Questões 9 a 11}{O autor, 2017}
+
+// Ver comentários livres e entrevista
 
 # Discussão dos resultados
 
-// TODO comparar todos os gráficos... Notar como todos os benefícios esperados foram alcançados e como o consenso foi grande entre os entrevistados / questionados... Como foi consensual que não houve pioras...
+// TODO comparar todos os gráficos... Notar como todos os benefícios esperados foram alcançados e como o consenso foi grande entre os entrevistados / questionados... Como foi consensual que não houve pioras e que não só o investimento valeu mas como deveria ser feito nas demais áreas da empresa...
 
 # Considerações finais
 

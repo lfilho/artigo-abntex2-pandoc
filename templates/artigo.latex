@@ -181,11 +181,10 @@
 
 % Assinatura: arquivo, rotulo, legenda, fonte
 \newcommand{\figuraigti}[4]{%
-    \begin{figure}[htbp]
-        \begin{center}
-            \includegraphics{#1}
-            % \includegraphics[width=400pt,resolution=72]{#1}
-        \end{center}
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics{#1}
+        % \includegraphics[width=400pt,resolution=72]{#1}
         \caption{\label{#2}#3}
         \legend{Fonte: #4.}
     \end{figure}
