@@ -285,6 +285,21 @@ $body$
 \renewcommand{\bibsection}{\normalfont\normalsize\textbf{\MakeUppercase{\hspace{2em}\bibname}}}
 \bibliography{referencias}
 
+
+% ----------------------------------------------------------
+% Apêndices e Anexos
+% ----------------------------------------------------------
+\makechapterstyle{asuappendix}{%
+    \setlength{\beforechapskip}{2.0\onelineskip}
+    \setlength{\afterchapskip}{1.0\onelineskip}
+    \renewcommand*{\chapnamefont}{\normalfont\bfseries}
+    \renewcommand*{\chapnumfont}{\chapnamefont}
+    \renewcommand*{\chaptitlefont}{\chapnamefont}
+    \renewcommand{\afterchapternum}{:\quad}
+}
+
+\addtodef{\appendix}{}{\chapterstyle{asuappendix}}
+
 $for(include-after)$
     \pagebreak
     $include-after$
