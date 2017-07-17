@@ -138,17 +138,19 @@ A mesma ideia também foi abordada na Questão 6 do questionário, onde a esmaga
 
 ## Do desenvolvimento pessoal e engajamento
 
-//TODO
+As Questões 7 e 8 tratam, respectivamente, da confiança do colaborador no seu próprio trabalho e do interesse do mesmo na empresa, analisados após o empreendimento de modelagem de processo. Em ambos os aspectos, conforme pode ser visto na \autoref{resultado-questao-7} e na \autoref{resultado-questao-8}, a maioria os colaboradores vislumbraram melhoras.
 
 \figuraigti{imagens/resultado-questao-7.pdf}{resultado-questao-7}{Resultado da Questão 7}{O autor, 2017}
 \figuraigti{imagens/resultado-questao-8.pdf}{resultado-questao-8}{Resultado da Questão 8}{O autor, 2017}
+
+Ainda sobre interesse e engajamento, foi questionado (via Questões 9 e 10) se os colaboradores viram desenvolver um maior interesse por parte deles e também dos colegas nos processos e atividades da empresa, visto que agora eles tinham maior entendimento dos mesmos devido às modelagens. E, conforme a \autoref{resultado-questao-9-a-11}, houve notável aumento de interesse nessas áreas, visto que quase 90% do colaboradores alegaram tal aumento em si mesmos mas apenas 56% notaram também nos colegas. Possivelmente um entrave de comunicação e/ou percepção.
+
+\figuraigti{imagens/resultado-questao-9-a-11.pdf}{resultado-questao-9-a-11}{Resultado das Questões 9 a 11}{O autor, 2017}
 
 ## Da continuidade de uma Gestão de Processos mais completa
 
 // TODO
 // Viram os benefícios, concordam com eles, concordam que tem que expandir
-
-\figuraigti{imagens/resultado-questao-9-a-11.pdf}{resultado-questao-9-a-11}{Resultado das Questões 9 a 11}{O autor, 2017}
 
 // Ver comentários livres e entrevista
 
