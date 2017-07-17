@@ -1,15 +1,8 @@
 Updates
-
-  * Tradução do resumo para o Inglês
-  * Finalização das entrevitas
-  * Finalização do apêndice
-  * Finalização das considerações finais
+=======
 
 Próximos passos
-
-  * Melhorar o template dos apêndices pra ficar em conformidade com o tempalte do IGTI
+===============
 
 Questões
-
-  * O número de páginas e caracteres recomendados pelo IGTI é baseado no arquivo todo (isto é, incluindo pré e pós textuais)? Ou somente no texto principal?
-  * Professor eu pensei numa palavra que é mais eloquente e traduz exatamente o que eu queria dizer com "benefícios secundários". A palavra é INCIDENTAL. Ou seja, "por tabela". Realmente "secundário" não faz tanto jus quanto "incidental", pois tais benefícios incidentais não vem, necessariamente, "depois" dos primários. As vezes eles chegam até mesmo ANTES, então essa ideia de ordem ("primeiro" e "segundo") são subótimos. Concorda? Acho que vou mudar no texto todo... Que acha?
+========
