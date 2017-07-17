@@ -8,3 +8,5 @@ Próximos passos
 
 Questões
 ========
+
+  * O número de páginas e caracteres recomendados pelo IGTI é baseado no arquivo todo (isto é, incluindo elementos pré e pós textuais)? Ou somente no texto principal?
