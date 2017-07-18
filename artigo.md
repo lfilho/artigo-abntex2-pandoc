@@ -147,22 +147,25 @@ Ainda sobre interesse e engajamento, foi questionado (via Questões 9 e 10) se o
 
 \figuraigti{imagens/resultado-questao-9-a-11.pdf}{resultado-questao-9-a-11}{Resultado das Questões 9 a 11}{O autor, 2017}
 
-## Da continuidade de uma Gestão de Processos mais completa
+## Da abrangência e continuidade de uma Gestão de Processos
 
-// TODO
-// Viram os benefícios, concordam com eles, concordam que tem que expandir
+Notáveis 96% dos respondentes do questionário acreditam que o empreendimento valeu a pena (Questão 11 do Questionário), conforme pode ser visto na \autoref{resultado-questao-9-a-11}. Vale lembrar que entre tais respondentes também estavam os líderes de equipe, bem como o diretor de tecnologia da empresa.
 
-// Ver comentários livres e entrevista
+Algo que também se sobressaiu em unanimidade (nos comentários livres da Questão 12 e da Entrevista) foi o desejo dos colaboradores em que tais esforços de modelagem e gestão de processos também fossem replicados nos demais departamentos da empresa e que não fossem deixados estagnados, mantendo-os vivos.
 
 # Discussão dos resultados
 
-// TODO comparar todos os gráficos... Notar como todos os benefícios esperados foram alcançados e como o consenso foi grande entre os entrevistados / questionados... Como foi consensual que não houve pioras e que não só o investimento valeu mas como deveria ser feito nas demais áreas da empresa...
+Como podemos observar em todos os gráficos, todos os benefícios esperados analisados foram alcançados: em média, 52% acharam que "melhorou muito" e 37% acharam que "melhorou um pouco" ficando o percentual restante dividido em "não sei opinar" e "sem melhoras ou pioras notáveis".
+
+As respostas especializada dos líderes (vide \autoref{apendice:resultado-entrevista}), em especial, deixam claro que a modelagem de processos realizada ajudou muito suas equipes e a empresa como um todo e que todos acreditam que o próximo passo para a empresa seria prosseguir com estes esforços para os demais departamentos, sob o patrocínio direto da diretoria.
+
+Fica, assim, conspícuo que os colaboradores viram os benefícios incidentais do empreendimento e concordam que a expansão para o restante da empresa seria essencial para o desenvolvimento e inovação da mesma.
 
 # Considerações finais
 
 Ao passo que as organizações já entendem que o tradicional funcionamento isolado dos departamentos não mais atende aos requisitos do mercado contemporâneo (caracterizado por rápidas mudanças) \cite{pritchard1999business}, é difícil na realidade cotidiana de uma organização criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. É aí que uma simples modelagem de processos pode ser um excelente primeiro passo, conforme corroborado por esta pesquisa.
 
-Sabemos que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como pudemos perceber, mesmo este esforço inicial já é capaz de trazer benefícios à cultura de uma organização e ao ânimo de seus empregados. Como vimos também, tais esforços (que podem ser feito em curto prazo) devem vir acompanhados de medidas de médio e longo prazo, sob perigo dos benefícios estagnarem e não acompanhar a natural evolução dos processos e cultura da organização.
+Sabemos que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como pudemos perceber, mesmo este esforço inicial já é capaz de trazer benefícios à cultura de uma organização e ao ânimo de seus empregados. Como vimos também, tais esforços (que podem ser feitos em curto prazo) devem vir acompanhados de medidas de médio e longo prazo, sob perigo dos benefícios estagnarem e não acompanhar a natural evolução dos processos e cultura da organização.
 
 Segundo \cite{bandara2009means}, pessoas, cultura e comunicação compõe 1/3 dos fatores de sucesso para se implantar uma BPM e tais fatores não são obtidos da noite pro dia, tampouco *top-down* (vindo como mera ordem da cadeia hierárquica) ou comprando algum novo software pra organização. Tais fatores são construídos paulatinamente. Felizmente, a paulatina e gradual modelagem de processos de uma organização contribui para todos esses 3 fatores por criar oportunidades de melhoria, comunicação, liderança e desenvolvimento pessoal e engajamento ao mesmo tempo...
 
