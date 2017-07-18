@@ -1,5 +1,5 @@
 ---
-titulo: "Benefícios secundários e qualitativos da modelagem de processos para a cultura organizacional: estudo de caso de uma empresa de pequeno porte"
+titulo: "Benefícios incidentais da modelagem de processos para a cultura organizacional: estudo de caso de uma empresa de pequeno porte"
 autor: "Luiz Gonzaga dos Santos Filho"
 orientador: "Prof. Dr. Fernando Hadad Zaidan"
 resumo: "Na busca por competitividade e inovação, cada vez mais as organizações reconhecem que otimizar processos é a melhor opção para cortar custos, aumentar eficiência e produtividade. Todavia, especialmente se o momento é de crise ou contenção de gastos, um empreendimento como o de implantação de Gestão de Processos em uma organização rapidamente se torna um investimento de retorno questionável perante ao risco inerente da situação. Ainda assim, mesmo uma implantação parcial de Gestão de Processos em uma organização já começa a gerar benefícios, e, muitas vezes, estes benefícios passam desapercebidos numa primeira análise. Ter consciência e deliberadamente ponderar tais benefícios pode ajudar ainda mais uma organização na decisão de adotar a Gestão de Processos. Foi objetivo deste trabalho identificar estes benefícios incidentais de uma modelagem de processos, o que foi corroborado através de um estudo de caso (com o apoio de questionário e entrevistas) em uma empresa de pequeno porte."
@@ -16,11 +16,11 @@ Sabedores de tais informações, é entendível a eventual incredulidade dos res
 
 Todavia, a modelagem de processos não só pode fomentar a inovação e consequente saída da empresa de uma crise (ou a obtenção de maior competitividade e lucratividade, independente de cenário de crise) (ibid.) como também pode trazer mudanças profundas à cultura da empresa e ao engajamento dos colaboradores.
 
-Assim, um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, precisa se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de trazer à realidade os desejados patrocínios supracitados. E, ao passo que já conseguimos entender bem os benefícios primários de tal empreendimento, estritamente relacionados aos produtos dos processos em si, acredita-se haver ainda outros benefícios, secundários e qualitativos, por vezes ignorados.
+Assim, um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, precisa se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de trazer à realidade os desejados patrocínios supracitados. E, ao passo que já conseguimos entender bem os benefícios primários de tal empreendimento, estritamente relacionados aos produtos dos processos em si, acredita-se haver ainda outros benefícios, incidentais e qualitativos, por vezes ignorados.
 
-Mais além, estes mesmos benefícios secundários e qualitativos poderiam provar ser, por si só, essenciais e altamente quistos à uma organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a incidental criação ou a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização \cite{robbins2000administraccao}.
+Mais além, estes mesmos benefícios incidentais e qualitativos poderiam provar ser, por si só, essenciais e altamente quistos à uma organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a incidental criação ou a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização \cite{robbins2000administraccao}.
 
-Destarte, este trabalho tem como objetivo identificar alguns destes possíveis benefícios secundários e corroborar e confrontar os mesmos à realidade de uma empresa de desenvolvimento de software.
+Destarte, este trabalho tem como objetivo identificar alguns destes possíveis benefícios incidentais e corroborar e confrontar os mesmos à realidade de uma empresa de desenvolvimento de software.
 
 Para tal, na seção "Metodologia", será explicado como esta pesquisa foi conduzida; conceitos primordiais para o entendimento geral do artigo serão revistos na seção "Revisão de literatura"; a hipótese e contextualização dessa pesquisa serão apresentadas em "Apresentação da pesquisa"; logo em seguida os resultados serão analisados em "Discussão dos resultados" e, por fim, em "Considerações finais" finalizaremos este estudo, com reflexões sobre a possível continuidade deste trabalho.
 
@@ -40,7 +40,7 @@ A análise dos dados foi feita descritiva e correlacionalmente.
 
 # Revisão de literatura
 
-Os conceitos de Gestão, Reengenharia e Modelagem de Processos de Negócios são essenciais para entendermos como eles podem trazer os benefícios secundários que este artigo pesquisa e, para isso também, revisaremos quais são os benefícios primários prometidos por eles.
+Os conceitos de Gestão, Reengenharia e Modelagem de Processos de Negócios são essenciais para entendermos como eles podem trazer os benefícios incidentais que este artigo pesquisa e, para isso também, revisaremos quais são os benefícios primários prometidos por eles.
 
 ## Processos de Negócio
 

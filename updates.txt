@@ -2,6 +2,8 @@ Updates
 =======
 
   * TODO: Nomear as perguntas com algo mais descritivo
+  * Apêndices agora estão no template do IGTI também
+  * Alteração da palavra "secundário" para "incidental", como havíamos conversado
 
 Próximos passos
 ===============
