@@ -61,14 +61,14 @@ Fonte: O autor, 2017.
 
 Comentários livres ao questionário (resposta opcional):
 
-- Faltou incorporar as demais áreas da empresa como comercial e financeiro. Estas áreas, por falta de integração e comunicação, interferem negativamente nos processos mapeados
-- Faltou integração entre diretoria e equipes. Comunicação se perdeu sobre as responsabilidades definidas em cada processo mapeado
-- Através dos processos é possível perceber as responsabilidades de cada departamento. Além disso, as etapas são respeitadas, na qual ninguém realiza ações "atravessadas"
-- O mapeamento dos processos é fundamental para amadurecimento das equipes de trabalho e da empresa
-- Podería ter sido feito o levantamento de todas áreas e das integrações entre elas, buncando uma maior interação das equipes
-- A gestão por processos é uma decisão estratégica que só tem seu total potencial explorado através do apoio da diretoria, por promover uma grande mudança cultural na organização. Caso não exista apoio, os objetivos não serão atingidos e será só mais uma iniciativa com grandes chances de fracasso e desperdício de recursos
-- A melhoria dos processos, quaisquer que sejam, através do seu mapeamento sempre traz resultados positivos. A análise continuada dos resultados fará com que os objetivos desejados fiquem cada vez mais próximos dos limites ideais
-- Como foi minha primeira empresa a trabalhar utilizando processos bem mapeados tenho hoje na minha cabeça esses processos como uma coisa que funciona e que da certo e traz benefícios, isso acaba me fazendo procurar isso também nas empresas em que trabalho pós Dataeasy, o tempo todo tento fazer com que o ambiente que eu trabalho busque mapear e agir da forma que vi dando certo na Dataeasy, concluindo digo que sim os processos trouxeram beneficio e ainda continua trazendo mesmo para aqueles que não estão mais colaborando na Dataeasy
+- "Faltou incorporar as demais áreas da empresa como comercial e financeiro. Estas áreas, por falta de integração e comunicação, interferem negativamente nos processos mapeados"
+- "Faltou integração entre diretoria e equipes. Comunicação se perdeu sobre as responsabilidades definidas em cada processo mapeado"
+- "Através dos processos é possível perceber as responsabilidades de cada departamento. Além disso, as etapas são respeitadas, na qual ninguém realiza ações 'atravessadas'"
+- "O mapeamento dos processos é fundamental para amadurecimento das equipes de trabalho e da empresa"
+- "Poderia ter sido feito o levantamento de todas áreas e das integrações entre elas, buscando uma maior interação das equipes"
+- "A gestão por processos é uma decisão estratégica que só tem seu total potencial explorado através do apoio da diretoria, por promover uma grande mudança cultural na organização. Caso não exista apoio, os objetivos não serão atingidos e será só mais uma iniciativa com grandes chances de fracasso e desperdício de recursos"
+- "A melhoria dos processos, quaisquer que sejam, através do seu mapeamento sempre traz resultados positivos. A análise continuada dos resultados fará com que os objetivos desejados fiquem cada vez mais próximos dos limites ideais"
+- "Como foi minha primeira empresa a trabalhar utilizando processos bem mapeados tenho hoje na minha cabeça esses processos como uma coisa que funciona e que da certo e traz benefícios, isso acaba me fazendo procurar isso também nas empresas em que trabalho após essa, o tempo todo tento fazer com que o ambiente que eu trabalho busque mapear e agir da forma que vi dando certo lá. Concluindo digo que sim os processos trouxeram benefício e ainda continuam trazendo mesmo para aqueles que não estão mais colaborando na empresa."
 
 # Roteiro das entrevistas conduzidas {#apendice:entrevista}
 

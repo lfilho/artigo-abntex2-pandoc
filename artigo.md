@@ -106,7 +106,7 @@ Naturalmente, além dessa contribuição tática (técnica), um colaborador nova
 
 Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e, conforme a \autoref{resultado-questao-1}, podemos ver que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhoras. Esta melhoria também foi explicitamente citada pelo "Líder 1" em sua resposta à Pergunta 5 (ver \autoref{apendice:resultado-entrevista}).
 
-\figuraigti{imagens/resultado-questao-1.pdf}{resultado-questao-1}{Resultado da Questão 1}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-1.pdf}{resultado-questao-1}{Resultado da Questão 1 -- Produtividade e celeridade nas contribuições}{O autor, 2017}
 
 Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também confirma a melhora de produtividade.
 
@@ -114,7 +114,7 @@ Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também
 
 "O segredo para a criação do conhecimento está na mobilização e conversão do conhecimento tácito" \cite[p.~11]{zaidanconhecimento}. A modelagem de processos permite rapidamente esta explicitação do conhecimento sobre os processos de uma empresa e, conforme notamos na \autoref{resultado-questao-2}, houveram consideráveis melhoras nesta área também.
 
-\figuraigti{imagens/resultado-questao-2.pdf}{resultado-questao-2}{Resultado da Questão 2}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-2.pdf}{resultado-questao-2}{Resultado da Questão 2 -- Explicitação e disseminação do conhecimento}{O autor, 2017}
 
 Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar os processos e assim identificar pontos de melhoria, abrindo portas, assim, para inovações na empresa que de outra forma talvez nunca viriam. Tal assertiva também foi corroborada pelas respostas do "Líder 1" às Perguntas 2 e 7 e do "Líder 5" às Perguntas 5 e 7.
 
@@ -122,9 +122,9 @@ Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar 
 
 Outra hipótese era a de que o relacionamento entre diferentes equipes ou mesmo departamentos melhoria, uma vez que antes ninguém entendia (além da superficialidade) como determinadas equipes e departamentos funcionavam. Esta falta de informação pode levar colaboradores a criarem suposições falsas sobre como é o trabalho daquele departamento, criar cobranças e pressão por resultados baseados nessas suposições e assim corroborar para uma cultura e ambiente de trabalhos mais ásperos e estressantes.
 
-\figuraigti{imagens/resultado-questao-3.pdf}{resultado-questao-3}{Resultado da Questão 3}{O autor, 2017}
-\figuraigti{imagens/resultado-questao-4.pdf}{resultado-questao-4}{Resultado da Questão 4}{O autor, 2017}
-\figuraigti{imagens/resultado-questao-5.pdf}{resultado-questao-5}{Resultado da Questão 5}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-3.pdf}{resultado-questao-3}{Resultado da Questão 3 -- Entendimento e relacionamento interdepartamental}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-4.pdf}{resultado-questao-4}{Resultado da Questão 4 -- Entendimento e relacionamento intradepartamental}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-5.pdf}{resultado-questao-5}{Resultado da Questão 5 -- Novos entendimentos do processo existente}{O autor, 2017}
 
 Como o "Líder 2" diz em sua resposta à Pergunta 1, as modelagens melhoraram o convívio dentro da empresa. Os resultados do questionário, vistos na \autoref{resultado-questao-3}, na \autoref{resultado-questao-4} e na \autoref{resultado-questao-5} corroboram: a oportunidade de ver e entender as nuanças dos processos de um departamento (tanto o que você trabalha quanto outros) facilita a compreensão da complexidade daquele departamento, criando assim maior espaço para a empatia, a valorização e a confiança nos colegas realizadores daqueles processos.
 
@@ -134,14 +134,14 @@ Nas Perguntas 3 e 4 das entrevistas, perguntou-se sobre a relação entre inova�
 
 A mesma ideia também foi abordada na Questão 6 do questionário, onde a esmagadora maioria dos colaboradores da empresa (93%, conforme visto na \autoref{resultado-questao-6}) concordaram ter e ver os processos modelados facilita a ideação da inovação.
 
-\figuraigti{imagens/resultado-questao-6.pdf}{resultado-questao-6}{Resultado da Questão 6}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-6.pdf}{resultado-questao-6}{Resultado da Questão 6 -- Cultura propensa à inovação}{O autor, 2017}
 
 ## Do desenvolvimento pessoal e engajamento
 
 As Questões 7 e 8 tratam, respectivamente, da confiança do colaborador no seu próprio trabalho e do interesse do mesmo na empresa, analisados após o empreendimento de modelagem de processo. Em ambos os aspectos, conforme pode ser visto na \autoref{resultado-questao-7} e na \autoref{resultado-questao-8}, a maioria os colaboradores vislumbraram melhoras.
 
-\figuraigti{imagens/resultado-questao-7.pdf}{resultado-questao-7}{Resultado da Questão 7}{O autor, 2017}
-\figuraigti{imagens/resultado-questao-8.pdf}{resultado-questao-8}{Resultado da Questão 8}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-7.pdf}{resultado-questao-7}{Resultado da Questão 7 -- Maior confiança em seu trabalho}{O autor, 2017}
+\figuraigti{imagens/resultado-questao-8.pdf}{resultado-questao-8}{Resultado da Questão 8 -- Maior interesse na empresa}{O autor, 2017}
 
 Ainda sobre interesse e engajamento, foi questionado (via Questões 9 e 10) se os colaboradores viram desenvolver um maior interesse por parte deles e também dos colegas nos processos e atividades da empresa, visto que agora eles tinham maior entendimento dos mesmos devido às modelagens. E, conforme a \autoref{resultado-questao-9-a-11}, houve notável aumento de interesse nessas áreas, visto que quase 90% do colaboradores alegaram tal aumento em si mesmos mas apenas 56% notaram também nos colegas. Possivelmente um entrave de comunicação e/ou percepção.
 
