@@ -2,8 +2,8 @@
 titulo: "Benefícios incidentais da modelagem de processos para a cultura organizacional: estudo de caso de uma empresa de pequeno porte"
 autor: "Luiz Gonzaga dos Santos Filho"
 orientador: "Prof. Dr. Fernando Hadad Zaidan"
-resumo: "Na busca por competitividade e inovação, cada vez mais as organizações reconhecem que otimizar processos é a melhor opção para cortar custos, aumentar eficiência e produtividade. Todavia, especialmente se o momento é de crise ou contenção de gastos, um empreendimento como o de implantação de Gestão de Processos em uma organização rapidamente se torna um investimento de retorno questionável perante ao risco inerente da situação. Ainda assim, mesmo uma implantação parcial de Gestão de Processos em uma organização já começa a gerar benefícios, e, muitas vezes, estes benefícios passam desapercebidos numa primeira análise. Ter consciência e deliberadamente ponderar tais benefícios pode ajudar ainda mais uma organização na decisão de adotar a Gestão de Processos. Foi objetivo deste trabalho identificar estes benefícios incidentais de uma modelagem de processos, o que foi corroborado através de um estudo de caso (com o apoio de questionário e entrevistas) em uma empresa de pequeno porte."
-abstract: "In the quest for competitiveness and innovation, each time more organizations recognize optimizing processes is the best solution to cut costs, to increase efficiency and productivity. Although, specially if the times are of crisis or holding expenses back, an undertaking such as the implantation of Processes Management in an organization rapidly become an investment of questionable returns due to the inherent risks of the situation. Nevertheless, even a partial implantation of Process Management in an organization begets benefits and, a lot of times, those benefits go unnoticed at a first glance. To be aware and deliberately ponder such benefits can help an organization even more on making the decision of adopting Process Management. It was a goal of this work to identify those incidental benefits of a process modeling undertaking, which was corroborated by a case study (with the support of a questionnaire and interviews) of a small sized company."
+resumo: "Na busca por competitividade e inovação, cada vez mais as organizações reconhecem que otimizar processos é a melhor opção para cortar custos, aumentar eficiência e produtividade. Todavia, especialmente se o momento é de crise ou contenção de gastos, um empreendimento como o de implantação de Gestão de Processos em uma organização rapidamente se torna um investimento de retorno questionável perante ao risco inerente da situação. Ainda assim, mesmo uma implantação parcial de Gestão de Processos em uma organização já começa a gerar benefícios, e, muitas vezes, estes benefícios passam desapercebidos numa primeira análise. Ter consciência e deliberadamente ponderar tais benefícios pode ajudar ainda mais uma organização na decisão de adotar a Gestão de Processos. Foi objetivo deste trabalho identificar alguns destes possíveis benefícios incidentais e corroborar e confrontar os mesmos à realidade de uma empresa de desenvolvimento de software."
+abstract: "In the quest for competitiveness and innovation, each time more organizations recognize optimizing processes is the best solution to cut costs, to increase efficiency and productivity. Although, specially if the times are of crisis or holding expenses back, an undertaking such as the implantation of Processes Management in an organization rapidly become an investment of questionable returns due to the inherent risks of the situation. Nevertheless, even a partial implantation of Process Management in an organization begets benefits and, a lot of times, those benefits go unnoticed at a first glance. To be aware and deliberately ponder such benefits can help an organization even more on making the decision of adopting Process Management. It was a goal of this work to identify some of those incidental benefits and corroborate and confront them with the reality of a software development company."
 palavrasChave: "Gestão de Processos de Negócio. Produtividade. Cultura organizacional. Inovação."
 keywords: "Business Process Management. Productivity. Organizational culture. Innovation."
 ---
@@ -16,13 +16,13 @@ Sabedores de tais informações, é entendível a eventual incredulidade dos res
 
 Todavia, a modelagem de processos não só pode fomentar a inovação e consequente saída da empresa de uma crise (ou a obtenção de maior competitividade e lucratividade, independente de cenário de crise) (ibid.) como também pode trazer mudanças profundas à cultura da empresa e ao engajamento dos colaboradores.
 
-Assim, um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, precisa se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de trazer à realidade os desejados patrocínios supracitados. E, ao passo que já conseguimos entender bem os benefícios primários de tal empreendimento, estritamente relacionados aos produtos dos processos em si, acredita-se haver ainda outros benefícios, incidentais e qualitativos, por vezes ignorados.
+Assim, um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, precisa se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de trazer à realidade os desejados patrocínios supracitados. E, ao passo que já consegue-se entender bem os benefícios primários de tal empreendimento, estritamente relacionados aos produtos dos processos em si, haveria benefícios incidentais de um empreendimento como esse para a organização e sua cultura? Acredita-se que sim e que são muitas vezes ignorados.
 
 Mais além, estes mesmos benefícios incidentais e qualitativos poderiam provar ser, por si só, essenciais e altamente quistos à uma organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a incidental criação ou a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização \cite{robbins2000administraccao}.
 
 Destarte, este trabalho tem como objetivo identificar alguns destes possíveis benefícios incidentais e corroborar e confrontar os mesmos à realidade de uma empresa de desenvolvimento de software.
 
-Para tal, na seção "Metodologia", será explicado como esta pesquisa foi conduzida; conceitos primordiais para o entendimento geral do artigo serão revistos na seção "Revisão de literatura"; a hipótese e contextualização dessa pesquisa serão apresentadas em "Apresentação da pesquisa"; logo em seguida os resultados serão analisados em "Discussão dos resultados" e, por fim, em "Considerações finais" finalizaremos este estudo, com reflexões sobre a possível continuidade deste trabalho.
+Para tal, na seção "Metodologia", será explicado como esta pesquisa foi conduzida; conceitos primordiais para o entendimento geral do artigo serão revistos na seção "Revisão de literatura"; a hipótese e contextualização dessa pesquisa serão apresentadas em "Apresentação da pesquisa"; logo em seguida os resultados serão analisados em "Discussão dos resultados" e, por fim, em "Considerações finais" será finalizado este estudo, com reflexões sobre a possível continuidade deste trabalho.
 
 # Metodologia
 
@@ -40,7 +40,7 @@ A análise dos dados foi feita descritiva e correlacionalmente.
 
 # Revisão de literatura
 
-Os conceitos de Gestão, Reengenharia e Modelagem de Processos de Negócios são essenciais para entendermos como eles podem trazer os benefícios incidentais que este artigo pesquisa e, para isso também, revisaremos quais são os benefícios primários prometidos por eles.
+Os conceitos de Gestão, Reengenharia e Modelagem de Processos de Negócios são essenciais para entendermos como eles podem trazer os benefícios incidentais que este artigo pesquisa e, para isso também, será revisado quais são os benefícios primários prometidos por eles.
 
 ## Processos de Negócio
 
@@ -104,15 +104,15 @@ A chegada de um novo colaborador em uma organização é sempre uma queda de pro
 
 Naturalmente, além dessa contribuição tática (técnica), um colaborador novato eventualmente pode questionar o que já existe como definido na organização e trazer contribuições estratégicas \cite{bass1993transformational}, isto, claro, se na organização houver uma cultura propícia e incentivada de colaboração e inovação. Destarte, as modelagens dos processos de negócio da organização seriam poderosas ferramentas para facilitar e acelerar tais contribuições estratégicas ou culturais visto que, na absência destes conhecimentos explícitos (se existissem somente de forma tácita, na cabeça das pessoas) tais colaborações demorariam muito mais a chegar -- se é que chegariam.
 
-Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e, conforme a \autoref{resultado-questao-1}, podemos ver que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhoras. Esta melhoria também foi explicitamente citada pelo "Líder 1" em sua resposta à Pergunta 5 (ver \autoref{apendice:resultado-entrevista}).
+Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e, conforme a \autoref{resultado-questao-1}, vê-se que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhoras. Esta melhoria também foi explicitamente citada pelo "Líder 1" em sua resposta à Pergunta 5 (ver \autoref{apendice:resultado-entrevista}).
 
 \figuraigti{imagens/resultado-questao-1.pdf}{resultado-questao-1}{Resultado da Questão 1 -- Produtividade e celeridade nas contribuições}{O autor, 2017}
 
-Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também confirma a melhora de produtividade.
+Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também confirma a melhora da mesma.
 
 ## Da explicitação e disseminação do conhecimento
 
-"O segredo para a criação do conhecimento está na mobilização e conversão do conhecimento tácito" \cite[p.~11]{zaidanconhecimento}. A modelagem de processos permite rapidamente esta explicitação do conhecimento sobre os processos de uma empresa e, conforme notamos na \autoref{resultado-questao-2}, houveram consideráveis melhoras nesta área também.
+A explicitação do conhecimento é um dos passos chave quando se almeja disseminá-lo e transformá-los em insumos para engajamento e inovação. Como diria Zaidan, "o segredo para a criação do conhecimento está na mobilização e conversão do conhecimento tácito" \cite[p.~11]{zaidanconhecimento}. A modelagem de processos permite rapidamente esta explicitação do conhecimento sobre os processos de uma empresa e, conforme notamos na \autoref{resultado-questao-2}, houveram consideráveis melhoras nesta área também.
 
 \figuraigti{imagens/resultado-questao-2.pdf}{resultado-questao-2}{Resultado da Questão 2 -- Explicitação e disseminação do conhecimento}{O autor, 2017}
 
@@ -122,30 +122,43 @@ Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar 
 
 Outra hipótese era a de que o relacionamento entre diferentes equipes ou mesmo departamentos melhoria, uma vez que antes ninguém entendia (além da superficialidade) como determinadas equipes e departamentos funcionavam. Esta falta de informação pode levar colaboradores a criarem suposições falsas sobre como é o trabalho daquele departamento, criar cobranças e pressão por resultados baseados nessas suposições e assim corroborar para uma cultura e ambiente de trabalhos mais ásperos e estressantes.
 
+Os resultados vistos na \autoref{resultado-questao-3} e na \autoref{resultado-questao-4} corroboram: a oportunidade de ver e entender as nuanças dos processos de um departamento  facilita a compreensão da complexidade daquele departamento.
+
 \figuraigti{imagens/resultado-questao-3.pdf}{resultado-questao-3}{Resultado da Questão 3 -- Entendimento e relacionamento interdepartamental}{O autor, 2017}
+
+E o mesmo também é verdade para outros departamentos da empresa, criando assim maior espaço para a empatia, a valorização e a confiança nos colegas realizadores daqueles processos.
+
 \figuraigti{imagens/resultado-questao-4.pdf}{resultado-questao-4}{Resultado da Questão 4 -- Entendimento e relacionamento intradepartamental}{O autor, 2017}
+
+Como o "Líder 2" diz em sua resposta à Pergunta 1, as modelagens melhoraram o convívio dentro da empresa.
+
 \figuraigti{imagens/resultado-questao-5.pdf}{resultado-questao-5}{Resultado da Questão 5 -- Novos entendimentos do processo existente}{O autor, 2017}
 
-Como o "Líder 2" diz em sua resposta à Pergunta 1, as modelagens melhoraram o convívio dentro da empresa. Os resultados do questionário, vistos na \autoref{resultado-questao-3}, na \autoref{resultado-questao-4} e na \autoref{resultado-questao-5} corroboram: a oportunidade de ver e entender as nuanças dos processos de um departamento (tanto o que você trabalha quanto outros) facilita a compreensão da complexidade daquele departamento, criando assim maior espaço para a empatia, a valorização e a confiança nos colegas realizadores daqueles processos.
+Adicionalmente, muitos colaboradores alegaram entender mais de um processo que já entendiam tacitamente simplesmente por vê-lo mapeado, conforme ilustra a \autoref{resultado-questao-5}.
 
 ## Da cultura de inovação e da crise
 
 Nas Perguntas 3 e 4 das entrevistas, perguntou-se sobre a relação entre inovação como ferramenta para sair da crise e um empreendimento de gestão de processos como fomentador de uma cultura voltada à inovação (ideia defendida também por Marques \cite{marques2014diagnostico}). Todos os líderes entrevistados concordaram com essa afirmativa.
 
-A mesma ideia também foi abordada na Questão 6 do questionário, onde a esmagadora maioria dos colaboradores da empresa (93%, conforme visto na \autoref{resultado-questao-6}) concordaram ter e ver os processos modelados facilita a ideação da inovação.
-
 \figuraigti{imagens/resultado-questao-6.pdf}{resultado-questao-6}{Resultado da Questão 6 -- Cultura propensa à inovação}{O autor, 2017}
+
+A mesma ideia também foi abordada na Questão 6 do questionário, onde a esmagadora maioria dos colaboradores da empresa (93%, conforme visto na \autoref{resultado-questao-6}) concordaram ter e ver os processos modelados facilita a ideação da inovação.
 
 ## Do desenvolvimento pessoal e engajamento
 
-As Questões 7 e 8 tratam, respectivamente, da confiança do colaborador no seu próprio trabalho e do interesse do mesmo na empresa, analisados após o empreendimento de modelagem de processo. Em ambos os aspectos, conforme pode ser visto na \autoref{resultado-questao-7} e na \autoref{resultado-questao-8}, a maioria os colaboradores vislumbraram melhoras.
+As Questões 7 e 8 tratam, respectivamente, da confiança do colaborador no seu próprio trabalho e do interesse do mesmo na empresa, analisados após o empreendimento de modelagem de processo.
 
 \figuraigti{imagens/resultado-questao-7.pdf}{resultado-questao-7}{Resultado da Questão 7 -- Maior confiança em seu trabalho}{O autor, 2017}
+
+Em ambos os aspectos, conforme pode ser visto na \autoref{resultado-questao-7} e na \autoref{resultado-questao-8}, a maioria os colaboradores vislumbraram melhoras.
+
 \figuraigti{imagens/resultado-questao-8.pdf}{resultado-questao-8}{Resultado da Questão 8 -- Maior interesse na empresa}{O autor, 2017}
 
-Ainda sobre interesse e engajamento, foi questionado (via Questões 9 e 10) se os colaboradores viram desenvolver um maior interesse por parte deles e também dos colegas nos processos e atividades da empresa, visto que agora eles tinham maior entendimento dos mesmos devido às modelagens. E, conforme a \autoref{resultado-questao-9-a-11}, houve notável aumento de interesse nessas áreas, visto que quase 90% do colaboradores alegaram tal aumento em si mesmos mas apenas 56% notaram também nos colegas. Possivelmente um entrave de comunicação e/ou percepção.
+Ainda sobre interesse e engajamento, foi questionado (via Questões 9 e 10) se os colaboradores viram desenvolver um maior interesse por parte deles e também dos colegas nos processos e atividades da empresa, visto que agora eles tinham maior entendimento dos mesmos devido às modelagens.
 
 \figuraigti{imagens/resultado-questao-9-a-11.pdf}{resultado-questao-9-a-11}{Resultado das Questões 9 a 11}{O autor, 2017}
+
+E, conforme a \autoref{resultado-questao-9-a-11}, vê-se notável aumento de interesse nessas áreas, uma vez que quase 90% do colaboradores alegaram tal aumento em si mesmos. Curiosamente, apenas 56% notaram esse maior interesse também nos colegas tal discrepância mostra um possível entrave de comunicação e/ou percepção social.
 
 ## Da abrangência e continuidade de uma Gestão de Processos
 
@@ -155,7 +168,7 @@ Algo que também se sobressaiu em unanimidade (nos comentários livres da Quest�
 
 # Discussão dos resultados
 
-Como podemos observar em todos os gráficos, todos os benefícios esperados analisados foram alcançados: em média, 52% acharam que "melhorou muito" e 37% acharam que "melhorou um pouco" ficando o percentual restante dividido em "não sei opinar" e "sem melhoras ou pioras notáveis".
+Como observa-se em todos os gráficos, todos os benefícios esperados analisados foram alcançados: em média, 52% acharam que "melhorou muito" e 37% acharam que "melhorou um pouco" ficando o percentual restante dividido em "não sei opinar" e "sem melhoras ou pioras notáveis".
 
 As respostas especializada dos líderes (vide \autoref{apendice:resultado-entrevista}), em especial, deixam claro que a modelagem de processos realizada ajudou muito suas equipes e a empresa como um todo e que todos acreditam que o próximo passo para a empresa seria prosseguir com estes esforços para os demais departamentos, sob o patrocínio direto da diretoria.
 
@@ -165,13 +178,13 @@ Fica, assim, conspícuo que os colaboradores viram os benefícios incidentais do
 
 Ao passo que as organizações já entendem que o tradicional funcionamento isolado dos departamentos não mais atende aos requisitos do mercado contemporâneo (caracterizado por rápidas mudanças) \cite{pritchard1999business}, é difícil na realidade cotidiana de uma organização criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. É aí que uma simples modelagem de processos pode ser um excelente primeiro passo, conforme corroborado por esta pesquisa.
 
-Sabemos que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como pudemos perceber, mesmo este esforço inicial já é capaz de trazer benefícios à cultura de uma organização e ao ânimo de seus empregados. Como vimos também, tais esforços (que podem ser feitos em curto prazo) devem vir acompanhados de medidas de médio e longo prazo, sob perigo dos benefícios estagnarem e não acompanhar a natural evolução dos processos e cultura da organização.
+Sabe-se que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como percebe-se com os resultados obtidos, mesmo este esforço inicial já é capaz de trazer benefícios à cultura de uma organização e ao ânimo de seus empregados. Viu-se também, que tais esforços (que podem ser feitos em curto prazo) devem vir acompanhados de medidas de médio e longo prazo, sob perigo dos benefícios estagnarem e não acompanhar a natural evolução dos processos e cultura da organização.
 
 Segundo \cite{bandara2009means}, pessoas, cultura e comunicação compõe 1/3 dos fatores de sucesso para se implantar uma BPM e tais fatores não são obtidos da noite pro dia, tampouco *top-down* (vindo como mera ordem da cadeia hierárquica) ou comprando algum novo software pra organização. Tais fatores são construídos paulatinamente. Felizmente, a paulatina e gradual modelagem de processos de uma organização contribui para todos esses 3 fatores por criar oportunidades de melhoria, comunicação, liderança e desenvolvimento pessoal e engajamento ao mesmo tempo...
 
 Como sugestão de continuidade para este trabalho, poderia-se considerar pesquisas de satisfação entre colaboradores sobre o que mais poderia ser feito para melhorar o engajamento e a cultura de colaboração da empresa; pesquisas gerais no mercado sobre o que levou um colaborador a querer sair de uma empresa (cultura? Falta de se sentir parte da organização? Falta de engajamento?); bem como pesquisas sobre fatores que levam alguém a se engajar num trabalho.
 
-Por fim, é reconfortante notar certa tendência global onde cada vez mais empregadores e empregados valorizam cada vez mais o intangível, o interesse por instituições mais humanas, a genuinidade e transparência de relacionamentos. Quiçá nas próximas décadas, assim como Cameron em 1963, acordaremos que nem tudo que se pode contar conta e que pensar na pessoas de um negócio também é um bom negócio.
+Por fim, é reconfortante notar certa tendência global onde cada vez mais empregadores e empregados valorizam cada vez mais o intangível, o interesse por instituições mais humanas, a genuinidade e transparência de relacionamentos. Quiçá nas próximas décadas, assim como Cameron em 1963, mais pessoas e organizações acordarão que nem tudo que se pode contar conta e que pensar na pessoas de um negócio também é um bom negócio.
 
 <!--
 Inovar é a base de mudanças que as empresas precisam para sair do modelo atual e buscar um novo modelo mais rentável, provendo produtos mais customizados, adaptados às novas necessidades do mercado consumidor e com diferenciais sobre seus concorrentes. // apostila de spr, pag 9

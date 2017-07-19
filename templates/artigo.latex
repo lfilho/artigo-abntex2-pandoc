@@ -179,9 +179,11 @@
 \captiondelim{\ABNTEXcaptiondelim}
 \captionsetup{justification=raggedright,font=small,skip=1pt,position=below,singlelinecheck=false}
 
+\usepackage{float}
+
 % Assinatura: arquivo, rotulo, legenda, fonte
 \newcommand{\figuraigti}[4]{%
-    \begin{figure}[!htbp]
+    \begin{figure}[H]
         \centering
         \includegraphics{#1}
         % \includegraphics[width=400pt,resolution=72]{#1}

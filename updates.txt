@@ -1,12 +1,28 @@
+Sobre o último feedback que o senhor me passou:
+===============================================
+
+- Mesmo objetivo no resumo e na introdução. O senhor quer dizer que tem que ser exatamente a mesma FRASE em ambos os lugares? O objetivo já estava em ambos os lugares, só que em frases ligeiramente diferentes... Bom, coloquei a mesma frase em ambos os lugares agora.
+- Frasear a questão de pesquisa em tom de pergunta (finalizar com "?") -- Feito.
+- "Despersonificação" dos verbos -- Feito.
+- Sobre "seria interessante cita o que ele falou" - isto é, quando eu escrevi que o "Líder 1" confirmou a melhoria em produtividade, por exemplo... Eu não coloquei o que ele falou ali no texto (apenas no Apêndice) pois eu acho que ia ficar muito pobre e repetitivo, visto que a pergunta era direta e a maioria das respostas são igualmente diretas e sucintas. Ou seja, ia ficar algo do tipo: "Ainda sobre produtividade, em resposta às Pergutnas 5 e 7, o Líder 3 confirma a melhora da mesma: "Sim, acredito que melhorou a produtividade com a modelagem de processos"... Entende? Que acha? Vê alguma outra forma "meio-termo" que eu poderia seguir ou faz assim mesmo?
+- Não posicionar figuras adjacentes às outras -- Feito!! O Latex por padrão tem uma funcionalidade de posicionar figuras de forma que otimize o uso de espaço na páginas. Desabilitei e agora elas ficam todas certinhas. O revés disso é que algumas páginas ficam com um pouco de espaço vazio...
+
+
 Updates
 =======
 
-  * TODO: Nomear as perguntas com algo mais descritivo
+  * TODO: Correções conforme último feedback recebido
+  * As legendas das imagens agora contém um texto descritivo
   * Apêndices agora estão no template do IGTI também
   * Alteração da palavra "secundário" para "incidental", como havíamos conversado
+  * Pequenas correções ortográficas aqui e ali...
 
 Próximos passos
 ===============
+
+  * Conferir o "checklist" que o IGTI disponibiliza sobre o TCC
+  * Reler o documento "Como redigir o Artigo Científico" do IGTI e ver se o meu artigo está tudo dentro dos conformes
+  * Reanalisar o template de artigo do IGTI para ver se tem algo mais que o meu artigo precisa entrar em conformidade
 
 Questões
 ========
