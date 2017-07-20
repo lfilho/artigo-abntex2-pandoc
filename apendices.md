@@ -72,15 +72,81 @@ Comentários livres ao questionário (resposta opcional):
 
 # Roteiro das entrevistas conduzidas {#apendice:entrevista}
 
+Perguntas realizadas nas entrevistas:
+
 1. Você acha que a empresa se beneficiaria se esse mesmo trabalho de modelagem fosse feito nos demais departamentos?
 2. O que você, enquanto líder, notou que mudou na sua equipe com esse tipo de conhecimento modelado?
 3. Você acha que que se a empresa tivesse uma cultura ainda mais voltada e preparada à inovação, a crise a teria afetado menos? Elabore.
 4. Você acha que empreendimentos como o realizado ajudam a ter uma cultura assim? Elabore.
 5. Teve alguma mudança positiva na equipe ou na empresa, que você acha que tenha surgido por causa desses esforços? Comente.
-6. Se você fosse incubido por seu superior de por otimizar o processo de alguma forma (aumentar vazão, reduzir custos, etc), tais modelagens seriam de valia para você?
+6. Se você fosse incumbido por seu superior de por otimizar o processo de alguma forma (aumentar vazão, reduzir custos, etc), tais modelagens seriam de valia para você?
 7. Você acha que a cultura da empresa (ou do departamento em questão) mudou de alguma forma após esse empreendimento?
 8. Outros comentários?
 
 # Resultado das entrevistas conduzidas {#apendice:resultado-entrevista}
 
-//TODO
+A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrevistados.
+
+**Respostas à Pergunta 1:**
+
+1. "Creio que sim. Quando se tem um processo e fica claro para todo mundo como seguir e o que fazer, melhora para todo mundo."
+2. "Com certeza. Torna nosso trabalho mais profissional. Não passar o carro na frente dos bois. Melhora o convívio dentro da empresa (fazer "do seu jeito" versus um jeito formal e padrão de se fazer -- afinal o foco é o cliente, processos giram em torno do cliente)."
+3. "Sim, com certeza. O processo atingiu o departamento de Desenvolvimento principalmente mas mesmo assim alguns outros setores, como a Infraestrutura (onde tinha muito retrabalho), também melhoraram."
+4. ""
+5. "Acredito que sim. Vendo os benefícios neste departamento acredito que os outros se beneficiariam muito também."
+
+**Respostas à Pergunta 2:**
+
+1. "Organização. Melhor delegação de responsabilidades. Você sabe que ponto que as coisas estão. Conseguem dar um prazo melhor aos clientes. Disseminação da informação. Engajamento melhorou em alguns casos (alguns casos específicos de clientes mais exigentes)."
+2. "Apesar da modelagem não ter contemplado meu departamento, os benefícios repercutiram lá (menos incidentes, reclamações, retrabalho, etc)"
+3. "Menos sobrecarregados. Membros mais confiantes na minha equipe. Diminuiu a pressão. Deu uma cara ao trabalho que não é de um indivíduo (assim ficava mais fácil seguir bem como questionar o processo). Ajudou a distribuir as responsabilidades. Antes, dificultava férias e ausências (por só uma pessoa entender o processo). Maior previsibilidade do trabalho sendo feito. Menos suscetíveis a erros e mesmo quando eles acontecem fica mais fácil lidar com eles."
+4. ""
+5. "Não sei dizer se foi especifica ou unicamente por conta da modelagem mas, olhando o todo, com certeza ela teve um papel fundamental."
+
+**Respostas à Pergunta 3:**
+
+1. "Com certeza. Por exemplo, se a empresa estivesse melhor preparada para outros mercados."
+2. "Creio que sim. Parceiros nossos inovaram em cima da nossa plataforma e conseguiram clientes enquanto nós mesmos ficamos sem novos contratos por quase 2 anos. Nós mesmos poderíamos ter pensado nisso um pouco antes e então a crise poderia ter nos afetado menos."
+3. "Sim, se, por exemplo, permitisse uma mudança de estratégia da empresa."
+4. ""
+5. "Sim. Por exemplo um processo do departamento Comercial modelado talvez teria vários benefícios paras serem implantados..."
+
+**Respostas à Pergunta 4:**
+
+1. "De certa forma sim, desde que a Gestão de Processos seja feita por pessoas competentes, entendedoras do assunto."
+2. "Acho que sim. Se temos processos claros para todos, isso dá um gás para quem entra e também para quem já está na empresa querer participar de novos projetos, sugerir novas ideias, etc."
+3. "Sim, seria um bom alicerce mas talvez os processos em si não seriam uma motivação para inovar."
+4. ""
+5. "Claro, quando temos um processo e cultura onde se incentiva experimentos.... Quando está visível como as áreas funcionam... Fica mais simples de dar opiniões e quem sabe sugerir melhorias e assim inovações."
+
+**Respostas à Pergunta 5:**
+
+1. "Sim, por exemplo, trazer um novato à produtividade do restante da equipe."
+2. "Sim. Acho que as pessoas começaram a ver a empresa de outra forma. Saíram da zona de conforto em prol de ajudar em outros projetos da empresa. Começaram a pensar fora da caixa. Começaram a trazer coisa de fora para aplicar dentro da empresa..."
+3. "Nível de stress e correria diminuíram, e assim a produtividade e a qualidade do trabalho melhoraram."
+4. ""
+5. "Sim. Por exemplo, entender o que funciona e o que não. Entender o que pode melhorar. Ajudou a área de Análise de Requisitos a se consolidar na empresa. Tendo as coisas expostas fica fácil a disseminação da cultura. Os desenhos foram fundamentais para consolidar nossas atividades e chegarmos onde estamos hoje."
+
+**Respostas à Pergunta 6:**
+
+1. "Claro, principalmente nas economias de tempo."
+2. "Sim. Quando a gente vê um processo a gente vê onde estão as gorduras e então onde cortá-las. É bem útil pra ver onde as pessoas estão se perdendo, onde o tempo está se perdendo, ou onde o dinheiro está sendo perdido..."
+3. "Sim, é o melhor ponto de partida, principalmente por já terem nascido da cultura presente da empresa."
+4. ""
+5. "Utilizaria sim. Seria minha primeira ideia olhar os processos e ver o que pode ser melhorado."
+
+**Respostas à Pergunta 7:**
+
+1. "Mudou. Todos agora sabem como tudo funciona. Não ficamos mais reféns da pessoa que antes detinha tal conhecimento. E agora ninguém mais busca repetir esse comportamento."
+2. "Apesar que algumas pessoas ainda estão resistentes a alguns processos, a empresa melhorou demais e acha que deveria continuar para as demais áreas da empresa também."
+3. "Sim, pessoas se tornaram mais responsáveis (prazos e qualidade do trabalho produzido)."
+4. ""
+5. "Mudou bastante. Por exemplo, agora a disseminação do conhecimento é algo que está mais enraizada na equipe e os membros buscam fazer isso mais pró-ativamente."
+
+**Respostas à Pergunta 8:**
+
+1. "No começo pode dar a impressão que ia burocratizar o desenvolvimento, que seria mais coisa pra fazer e aprender. Mas na realidade melhorou, pois organizou tudo. Ficou melhor pra todo mundo."
+2. *Sem outros comentários*
+3. "Com a crise e novas demandas, a Gestão dos Processos ficou congelada... Seria interessante mantê-la."
+4. *Sem outros comentários*
+5. "Por inexperiência nossa à época, faltou explicar mais para a empresa toda o que é BPM e as suas vantagens (e não "apenas um fluxograma")."

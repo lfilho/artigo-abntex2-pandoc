@@ -1,17 +1,19 @@
-Sobre o último feedback que o senhor me passou:
-===============================================
+Sobre o último feedback que o senhor me passou
+==============================================
 
-- Mesmo objetivo no resumo e na introdução. O senhor quer dizer que tem que ser exatamente a mesma FRASE em ambos os lugares? O objetivo já estava em ambos os lugares, só que em frases ligeiramente diferentes... Bom, coloquei a mesma frase em ambos os lugares agora.
-- Frasear a questão de pesquisa em tom de pergunta (finalizar com "?") -- Feito.
-- "Despersonificação" dos verbos -- Feito.
-- Sobre "seria interessante cita o que ele falou" - isto é, quando eu escrevi que o "Líder 1" confirmou a melhoria em produtividade, por exemplo... Eu não coloquei o que ele falou ali no texto (apenas no Apêndice) pois eu acho que ia ficar muito pobre e repetitivo, visto que a pergunta era direta e a maioria das respostas são igualmente diretas e sucintas. Ou seja, ia ficar algo do tipo: "Ainda sobre produtividade, em resposta às Pergutnas 5 e 7, o Líder 3 confirma a melhora da mesma: "Sim, acredito que melhorou a produtividade com a modelagem de processos"... Entende? Que acha? Vê alguma outra forma "meio-termo" que eu poderia seguir ou faz assim mesmo?
-- Não posicionar figuras adjacentes às outras -- Feito!! O Latex por padrão tem uma funcionalidade de posicionar figuras de forma que otimize o uso de espaço na páginas. Desabilitei e agora elas ficam todas certinhas. O revés disso é que algumas páginas ficam com um pouco de espaço vazio...
-
+  1. Mesmo objetivo no resumo e na introdução. O senhor quer dizer que tem que ser exatamente a mesma FRASE em ambos os lugares? O objetivo já estava em ambos os lugares, só que em frases ligeiramente diferentes... Bom, coloquei a mesma frase em ambos os lugares agora.
+  2. Frasear a questão de pesquisa em tom de pergunta (finalizar com "?") -- Feito.
+  3. "Despersonificação" dos verbos -- Feito.
+  4. Sobre "seria interessante cita o que ele falou" - isto é, quando eu escrevi que o "Líder 1" confirmou a melhoria em produtividade, por exemplo... Eu não coloquei o que ele falou ali no texto (apenas no Apêndice) pois eu acho que ia ficar muito pobre e repetitivo, visto que a pergunta era direta e a maioria das respostas são igualmente diretas e sucintas. Ou seja, ia ficar algo do tipo: "Ainda sobre produtividade, em resposta às Pergutnas 5 e 7, o Líder 3 confirma a melhora da mesma: "Sim, acredito que melhorou a produtividade com a modelagem de processos"... Entende? Que acha? Vê alguma outra forma "meio-termo" que eu poderia seguir ou faz assim mesmo?
+  5. Não posicionar figuras adjacentes às outras -- Feito. O Latex por padrão tem uma funcionalidade de posicionar figuras de forma que otimize o uso de espaço na páginas. Desabilitei e agora elas ficam todas certinhas. O revés disso é que algumas páginas ficam com um pouco de espaço vazio...
+  6. Retomar o objetivo em "Consideraçòes finais" -- Feito.
+  7. Não usar reticências -- Feito.
+  8. Sobre o seu comentário no Apêndice B (de colocar aquela tabela de resultados no corpo do trabalho). Eu coloquei todos aqueles dados no corpo, só que em forma de gráficos. Precisa mesmo colocar em forma de tabela também? Acho que não vai acrescentar em nada na leitura corrida do trabalho, por isso achei melhor ir colocando os gráficos a cada contexto respectivo... Acho que é somente um dado complementar do que essencial. O que o senhor acha?
 
 Updates
 =======
 
-  * TODO: Correções conforme último feedback recebido
+  * Correções conforme último feedback recebido (exceto os itens 4. e 8. acima)
   * As legendas das imagens agora contém um texto descritivo
   * Apêndices agora estão no template do IGTI também
   * Alteração da palavra "secundário" para "incidental", como havíamos conversado
@@ -23,8 +25,10 @@ Próximos passos
   * Conferir o "checklist" que o IGTI disponibiliza sobre o TCC
   * Reler o documento "Como redigir o Artigo Científico" do IGTI e ver se o meu artigo está tudo dentro dos conformes
   * Reanalisar o template de artigo do IGTI para ver se tem algo mais que o meu artigo precisa entrar em conformidade
+  * Revisar a prosa e melhorar o que porventura eu conseguir
 
 Questões
 ========
 
   * O número de páginas e caracteres recomendados pelo IGTI é baseado no arquivo todo (isto é, incluindo elementos pré e pós textuais)? Ou somente no texto principal?
+  * Creio que agora o tamanho do artigo não há de mudar consideravelmente mais... Ele passou um pouco do recomendado do IGTI, mas a maioria das páginas "excedentes" são os Apêndices. Tem problema? O que o senhor acha? Está bom assim?
