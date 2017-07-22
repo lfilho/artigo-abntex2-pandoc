@@ -92,7 +92,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "Creio que sim. Quando se tem um processo e fica claro para todo mundo como seguir e o que fazer, melhora para todo mundo."
 2. "Com certeza. Torna nosso trabalho mais profissional. Não passar o carro na frente dos bois. Melhora o convívio dentro da empresa (fazer "do seu jeito" versus um jeito formal e padrão de se fazer -- afinal o foco é o cliente, processos giram em torno do cliente)."
 3. "Sim, com certeza. O processo atingiu o departamento de Desenvolvimento principalmente mas mesmo assim alguns outros setores, como a Infraestrutura (onde tinha muito retrabalho), também melhoraram."
-4. ""
+4. "Sim. A falta de estrutura e definições claras de atuação e de responsáveis, cria um *gap* de conhecimento na empresa. Não adianta produzir produto ou oferecer um serviço se você não vende isso também de forma estruturada e otimizada. Se não fizermos isso, gera defasagem de conhecimento entre as áreas. As vezes o vendedor vende o que não tem por falta de conhecimento."
 5. "Acredito que sim. Vendo os benefícios neste departamento acredito que os outros se beneficiariam muito também."
 
 **Respostas à Pergunta 2:**
@@ -100,7 +100,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "Organização. Melhor delegação de responsabilidades. Você sabe que ponto que as coisas estão. Conseguem dar um prazo melhor aos clientes. Disseminação da informação. Engajamento melhorou em alguns casos (alguns casos específicos de clientes mais exigentes)."
 2. "Apesar da modelagem não ter contemplado meu departamento, os benefícios repercutiram lá (menos incidentes, reclamações, retrabalho, etc)"
 3. "Menos sobrecarregados. Membros mais confiantes na minha equipe. Diminuiu a pressão. Deu uma cara ao trabalho que não é de um indivíduo (assim ficava mais fácil seguir bem como questionar o processo). Ajudou a distribuir as responsabilidades. Antes, dificultava férias e ausências (por só uma pessoa entender o processo). Maior previsibilidade do trabalho sendo feito. Menos suscetíveis a erros e mesmo quando eles acontecem fica mais fácil lidar com eles."
-4. ""
+4. "Um fluxo de informação mais tranquilo e transparente. Fica mais fácil liderar, fica mais fácil aferir."
 5. "Não sei dizer se foi especifica ou unicamente por conta da modelagem mas, olhando o todo, com certeza ela teve um papel fundamental."
 
 **Respostas à Pergunta 3:**
@@ -108,7 +108,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "Com certeza. Por exemplo, se a empresa estivesse melhor preparada para outros mercados."
 2. "Creio que sim. Parceiros nossos inovaram em cima da nossa plataforma e conseguiram clientes enquanto nós mesmos ficamos sem novos contratos por quase 2 anos. Nós mesmos poderíamos ter pensado nisso um pouco antes e então a crise poderia ter nos afetado menos."
 3. "Sim, se, por exemplo, permitisse uma mudança de estratégia da empresa."
-4. ""
+4. "Sim, desde que se tenha o capital para para investir na inovação e fazê-la acontecer."
 5. "Sim. Por exemplo um processo do departamento Comercial modelado talvez teria vários benefícios paras serem implantados..."
 
 **Respostas à Pergunta 4:**
@@ -116,7 +116,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "De certa forma sim, desde que a Gestão de Processos seja feita por pessoas competentes, entendedoras do assunto."
 2. "Acho que sim. Se temos processos claros para todos, isso dá um gás para quem entra e também para quem já está na empresa querer participar de novos projetos, sugerir novas ideias, etc."
 3. "Sim, seria um bom alicerce mas talvez os processos em si não seriam uma motivação para inovar."
-4. ""
+4. "Sim, modelando vamos entendendo melhor a empresa. Não esquecemos mais que a empresa é um organismo vivo. Quando se negligencia o olhar pra dentro da empresa, você sufoca a mesma. Tendo as modelagens, você é capaz de sugerir, de melhorar."
 5. "Claro, quando temos um processo e cultura onde se incentiva experimentos.... Quando está visível como as áreas funcionam... Fica mais simples de dar opiniões e quem sabe sugerir melhorias e assim inovações."
 
 **Respostas à Pergunta 5:**
@@ -124,7 +124,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "Sim, por exemplo, trazer um novato à produtividade do restante da equipe."
 2. "Sim. Acho que as pessoas começaram a ver a empresa de outra forma. Saíram da zona de conforto em prol de ajudar em outros projetos da empresa. Começaram a pensar fora da caixa. Começaram a trazer coisa de fora para aplicar dentro da empresa..."
 3. "Nível de stress e correria diminuíram, e assim a produtividade e a qualidade do trabalho melhoraram."
-4. ""
+4. "No início notei uma certa insastisfação nos colaboradores (mexendo na zona de conforto). Mas depois fui vendo o inevitável benefício (conhecer melhor o que se faz, como se faz, quem faz e em quanto tempo faz)"
 5. "Sim. Por exemplo, entender o que funciona e o que não. Entender o que pode melhorar. Ajudou a área de Análise de Requisitos a se consolidar na empresa. Tendo as coisas expostas fica fácil a disseminação da cultura. Os desenhos foram fundamentais para consolidar nossas atividades e chegarmos onde estamos hoje."
 
 **Respostas à Pergunta 6:**
@@ -132,7 +132,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "Claro, principalmente nas economias de tempo."
 2. "Sim. Quando a gente vê um processo a gente vê onde estão as gorduras e então onde cortá-las. É bem útil pra ver onde as pessoas estão se perdendo, onde o tempo está se perdendo, ou onde o dinheiro está sendo perdido..."
 3. "Sim, é o melhor ponto de partida, principalmente por já terem nascido da cultura presente da empresa."
-4. ""
+4. "Sim, a decisão do quê mudar ou descartar fica mais fácil pois tudo fica mais claro, assertivo e justo."
 5. "Utilizaria sim. Seria minha primeira ideia olhar os processos e ver o que pode ser melhorado."
 
 **Respostas à Pergunta 7:**
@@ -140,7 +140,7 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 1. "Mudou. Todos agora sabem como tudo funciona. Não ficamos mais reféns da pessoa que antes detinha tal conhecimento. E agora ninguém mais busca repetir esse comportamento."
 2. "Apesar que algumas pessoas ainda estão resistentes a alguns processos, a empresa melhorou demais e acha que deveria continuar para as demais áreas da empresa também."
 3. "Sim, pessoas se tornaram mais responsáveis (prazos e qualidade do trabalho produzido)."
-4. ""
+4. "Sim, pois cada um sabe o que faz e os outros fazem. Então cria uma maior tranquilidade e facilita o trabalho de todos."
 5. "Mudou bastante. Por exemplo, agora a disseminação do conhecimento é algo que está mais enraizada na equipe e os membros buscam fazer isso mais pró-ativamente."
 
 **Respostas à Pergunta 8:**
