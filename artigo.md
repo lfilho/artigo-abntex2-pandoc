@@ -104,11 +104,11 @@ A chegada de um novo colaborador em uma organização é sempre uma queda de pro
 
 Naturalmente, além dessa contribuição tática (técnica), um colaborador novato eventualmente pode questionar o que já existe como definido na organização e trazer contribuições estratégicas \cite{bass1993transformational}, isto, claro, se na organização houver uma cultura propícia e incentivada de colaboração e inovação. Destarte, as modelagens dos processos de negócio da organização seriam poderosas ferramentas para facilitar e acelerar tais contribuições estratégicas ou culturais visto que, na absência destes conhecimentos explícitos (se existissem somente de forma tácita, na cabeça das pessoas) tais colaborações demorariam muito mais a chegar -- se é que chegariam.
 
-Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e, conforme a \autoref{resultado-questao-1}, vê-se que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhoras. Esta melhoria também foi explicitamente citada pelo "Líder 1" em sua resposta à Pergunta 5 (ver \autoref{apendice:resultado-entrevista}).
+Assim, foi questionado (através da pergunta 1 do questionário) aos colaboradores da empresa em questão se notaram melhorias neste aspecto e, conforme a \autoref{resultado-questao-1}, vê-se que o benefício foi alcançado, onde cerca de 85% dos entrevistados acreditam ter havido melhoras. Esta melhoria também foi explicitamente citada pelo "Líder 1" em sua resposta à Pergunta 5 (ver \autoref{apendice:resultado-entrevista}), ao citar a produtividade de um novato em relação ao restante da equipe.
 
 \figuraigti{imagens/resultado-questao-1.pdf}{resultado-questao-1}{Resultado da Questão 1 -- Produtividade e celeridade nas contribuições}{O autor, 2017}
 
-Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também confirma a melhora da mesma.
+Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também confirma a melhora da mesma: tal líder cita o aumento da produtividade e outros benefícios colaterais: a diminuição do *stress* e da correria no ambiente de trablaho.
 
 ## Da explicitação e disseminação do conhecimento
 
@@ -116,7 +116,13 @@ A explicitação do conhecimento é um dos passos chave quando se almeja dissemi
 
 \figuraigti{imagens/resultado-questao-2.pdf}{resultado-questao-2}{Resultado da Questão 2 -- Explicitação e disseminação do conhecimento}{O autor, 2017}
 
-Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar os processos e assim identificar pontos de melhoria, abrindo portas, assim, para inovações na empresa que de outra forma talvez nunca viriam. Tal assertiva também foi corroborada pelas respostas do "Líder 1" às Perguntas 2 e 7 e do "Líder 5" às Perguntas 5 e 7.
+Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar os processos e assim identificar pontos de melhoria, abrindo portas, assim, para inovações na empresa que de outra forma talvez nunca viriam.
+
+Para o "Líder 5", em respostas às Perguntas 5 e 7, a disseminação do conhecimento ficou mais "enraizada" nos colaboradores e que os conheicmentos disseminados foram essenciais para levar a empresa a onde ela está hoje, bem como consolidar atividades vitais da mesma.
+
+Já o "Líder 1", ressalta em suas respostas às Pergutnas 2 e 7, que a disseminação do conhecimento melhorou um problema existente que era a concentração de conhecimentos vitais da empresa em apenas uma pessoa, e que essa disseminação é importante até mesmo para dar prazos mais factíveis e melhorar, assim, o relacionamento com clientes também.
+
+É interessante a resposta do "Líder 4" à Pergunta 1. de acordo com tal líder, uma lacuna de conhecimentos entre departamentos pode ser muito nocivo à uma empresa: "Não adianta produzir produto ou oferecer um serviço se você não vende isso também de forma estruturada e otimizada. [...] As vezes o vendedor vende o que não tem por falta de conhecimento."
 
 ## Do entendimento e relacionamento inter e intradepartamental
 
@@ -138,11 +144,13 @@ Adicionalmente, muitos colaboradores alegaram entender mais de um processo que j
 
 ## Da cultura de inovação e da crise
 
-Nas Perguntas 3 e 4 das entrevistas, perguntou-se sobre a relação entre inovação como ferramenta para sair da crise e um empreendimento de gestão de processos como fomentador de uma cultura voltada à inovação (ideia defendida também por Marques \cite{marques2014diagnostico}). Todos os líderes entrevistados concordaram com essa afirmativa.
+Nas Perguntas 3 e 4 das entrevistas, perguntou-se sobre a relação entre inovação como ferramenta para sair da crise e um empreendimento de gestão de processos como fomentador de uma cultura voltada à inovação (ideia defendida também por Marques \cite{marques2014diagnostico}). Todos os líderes entrevistados concordaram com essa afirmativa. Destaque à resposta do "Líder 4" à Pergunta 4: "Não esquecemos mais que a empresa é um organismo vivo. Quando se negligencia o olhar pra dentro da empresa, você sufoca a mesma".
 
 \figuraigti{imagens/resultado-questao-6.pdf}{resultado-questao-6}{Resultado da Questão 6 -- Cultura propensa à inovação}{O autor, 2017}
 
 A mesma ideia também foi abordada na Questão 6 do questionário, onde a esmagadora maioria dos colaboradores da empresa (93%, conforme visto na \autoref{resultado-questao-6}) concordaram ter e ver os processos modelados facilita a ideação da inovação.
+
+O "Líder 4", em suas resposta à Pergunta 6, traz ainda uma outra reflexão sobre a saída da crise: mesmo que uma organização não consiga inovar a tempo (antes que a crise chegue), e que infelizmente seja necessária a demissão de colaboradores, no mínimo a modelagem de processos facilita a decisão de quem demitir (os colaboradores menos vitais e/ou mais onerosos ao processo).
 
 ## Do desenvolvimento pessoal e engajamento
 
