@@ -149,4 +149,4 @@ A numeração dos itens a seguir corresponde a cada um dos cinco líderes entrev
 2. *Sem outros comentários*
 3. "Com a crise e novas demandas, a Gestão dos Processos ficou congelada... Seria interessante mantê-la."
 4. *Sem outros comentários*
-5. "Por inexperiência nossa à época, faltou explicar mais para a empresa toda o que é BPM e as suas vantagens (e não "apenas um fluxograma")."
+5. "Por inexperiência nossa à época, faltou explicar mais para a empresa toda o que é BPM e as suas vantagens (e não 'apenas um fluxograma')."
