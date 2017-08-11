@@ -16,7 +16,7 @@ Sabedores de tais informações, é entendível a eventual incredulidade dos res
 
 Todavia, a modelagem de processos não só pode fomentar a inovação e consequente saída da empresa de uma crise (ou a obtenção de maior competitividade e lucratividade, independente de cenário de crise) (ibid.) como também pode trazer mudanças profundas à cultura da empresa e ao engajamento dos colaboradores.
 
-Assim, um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, precisa se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de trazer à realidade os desejados patrocínios supracitados. E, ao passo que já consegue-se entender bem os benefícios primários de tal empreendimento, estritamente relacionados aos produtos dos processos em si, haveria benefícios incidentais de um empreendimento como esse para a organização e sua cultura? Acredita-se que sim e que são muitas vezes ignorados.
+Assim, um profissional, departamento ou organização que se encontre no processo de analisar a viabilidade e possíveis benefícios de um empreendimento desta natureza, precisa se munir da maior quantidade possível de benefícios que tal empreendimento poderá trazer à organização, a fim de trazer à realidade os desejados patrocínios supracitados. E, ao passo que já consegue-se entender bem os benefícios primários de tal empreendimento, estritamente relacionados aos produtos dos processos em si, haveria benefícios incidentais de um empreendimento como esse para a organização e sua cultura?
 
 Mais além, estes mesmos benefícios incidentais e qualitativos poderiam provar ser, por si só, essenciais e altamente quistos à uma organização, mesmo que o empreendimento primordial (o de Gestão de Processos de Negócio) tenha se mostrado subótimo. Por exemplo, a incidental criação ou a potencialização de uma cultura mais colaborativa, da capacidade competitiva e inovativa da organização \cite{robbins2000administraccao}.
 
@@ -68,7 +68,7 @@ Assim, a modelagem rapidamente se torna um valioso recurso para a necessária di
 
 ## Cultura Organizacional
 
-Para Bass, "a cultura organizacional é a 'cola' que segura a organização como uma fonte de identidade e competência distintiva"  \cite{bass1990handbook}. É o conjunto de "valores, crenças, atitudes e comportamentos das pessoas que distinguem um grupo ou categoria de pessoas de outro" \cite{hofstede1993cultural}.
+Para Bass, "a cultura organizacional é a 'cola' que segura a organização como uma fonte de identidade e competência distintiva" \cite[p.~587]{bass1990bass}. Também pode ser vista como um conjunto de valores, crenças, atitudes e comportamentos das pessoas que distinguem um grupo ou categoria de pessoas de outro \cite{hofstede1993cultural}.
 
 A cultura organizacional é um fator de sucesso para empreendimentos BPM mas também é um dos fatores que não se podem alterar ou influenciar satisfatoriamente **durante** um empreendimento de BPM. É necessário que uma boa cultura organizacional já venha sendo cultivada bem antes do empreendimento começar \cite{bandara2009means}. Uma cultura pode ser responsável tanto por facilitar o progresso de um projeto BPM tanto para dificultá-lo \cite{tsai2003information}. Portanto, é mister para qualquer organização cuidar primeiramente da sua cultura interna antes de querer ousar grandes esforços em seus processos de negócio.
 
@@ -184,7 +184,7 @@ Fica, assim, conspícuo que os colaboradores viram os benefícios incidentais do
 
 # Considerações finais
 
-Ao passo que as organizações já entendem que o tradicional funcionamento isolado dos departamentos não mais atende aos requisitos do mercado contemporâneo (caracterizado por rápidas mudanças) \cite{pritchard1999business}, é difícil na realidade cotidiana de uma organização criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. É aí que uma simples modelagem de processos pode ser um excelente primeiro passo de um empreendimento que traz os benefícios incidentais corroborado por esta pesquisa à uma organização.
+Ao passo que as organizações já percebem que o tradicional modelo de deparatamentos isolados não mais atende aos requisitos do dinâmico mercado hodierno, é difícil na realidade cotidiana de uma organização criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. É aí que uma simples modelagem de processos pode ser um excelente primeiro passo de um empreendimento que traz os benefícios incidentais corroborado por esta pesquisa à uma organização.
 
 Sabe-se que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como percebe-se com os resultados obtidos, mesmo este esforço inicial já é capaz de trazer benefícios à cultura de uma organização e ao ânimo de seus empregados. Viu-se também, que tais esforços (que podem ser feitos em curto prazo) devem vir acompanhados de medidas de médio e longo prazo, sob perigo dos benefícios estagnarem e não acompanhar a natural evolução dos processos e cultura da organização.
 
@@ -193,33 +193,3 @@ Segundo \cite{bandara2009means}, pessoas, cultura e comunicação compõe 1/3 do
 Como sugestão de continuidade para este trabalho, poderia-se considerar pesquisas de satisfação entre colaboradores sobre o que mais poderia ser feito para melhorar o engajamento e a cultura de colaboração da empresa; pesquisas gerais no mercado sobre o que levou um colaborador a querer sair de uma empresa (cultura? Falta de se sentir parte da organização? Falta de engajamento?); bem como pesquisas sobre fatores que levam alguém a se engajar num trabalho.
 
 Por fim, é reconfortante notar certa tendência global onde cada vez mais empregadores e empregados valorizam cada vez mais o intangível, o interesse por instituições mais humanas, a genuinidade e transparência de relacionamentos. Quiçá nas próximas décadas, assim como Cameron em 1963, mais pessoas e organizações acordarão que nem tudo que se pode contar conta e que pensar na pessoas de um negócio também é um bom negócio.
-
-<!--
-Inovar é a base de mudanças que as empresas precisam para sair do modelo atual e buscar um novo modelo mais rentável, provendo produtos mais customizados, adaptados às novas necessidades do mercado consumidor e com diferenciais sobre seus concorrentes. // apostila de spr, pag 9
-
-O processo de projetar um modelo de um sistema real e conduzir experimentos com este modelo com o propósito de entender seu comportamento e/ou avaliar estratégias para sua operação
-
-# Exemplos de formatação:
-
-## Quadro
-
-Quadro exemplo: Exemplo de quadro
-
-| Frutra | Valor |
-|:------:|-------|
-|Banana  | R$ 1,0|
-|Morango | R$ 2,0|
-
-Fonte: \cite{pink2011drive}.
-
-: Exemplo de tabela \label{tabexemplo}
-
-| Frutra | Valor |
-|:------:|-------|
-|Banana  | R$ 1,0|
-|Morango | R$ 2,0|
-
-Fonte: \cite{pink2011drive}.
-
-Ver o \autoref{exemplo} e a \autoref{tabexemplo}.
--->

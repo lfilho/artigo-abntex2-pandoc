@@ -1,20 +1,16 @@
 Updates
 =======
 
-  * Corrigido: problema da logo do igti que estava faltando na primeira página
-  * Resumo: acrescentar uma frase da metodologia e outra da conclusão -- Feito.
-  * O capítulo de Discussão dos resultados está desproporcional (em conteúdo) dos demais, um pouco mais de conteúdo seria interessante. Talvez mover do capítulo 4 algo que achar que é discussão de resultados. -- Feito.
-  * As pequenas inserções acima infelizmente resultaram em uma página a mais no total
+- Sobre seu comentário: "Não ficaria melhor: 'de uma empresa' ao invés de 'da empresa'". Eu havia falado da empresa escolhida no parágrafo anterior, então no parágrafo seguinte eu quis realmente deixar claro que o processo foi mapeado no departamento de desenvolvimento *desta* empresa em questão.
+- Corrigidas as demais sugestões
 
 Próximos passos
 ===============
 
-  * Criar slides enquanto aguardo a correção?
 
 Questões
 ========
 
-  * O próximo envio seria a versão para a banca, correto? É o senhor também que avaliará este envio ou já seria de fato a banca?
 
 
 Obrigado, Zaidan!
