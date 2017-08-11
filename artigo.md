@@ -80,7 +80,7 @@ No mercado hodierno, vê-se cada vez mais a necessidade de uma cultura organizac
 
 Por outro lado, Bass ainda nos diz que
 
-> Em uma cultura inovativa, os líderes [transformacionais] se baseiam em premissas tais quais: pessoas são confiáveis e com propósito; todos tem uma contribuição única a dar; e problemas complexos são lidados no nível mais baixo possível [...] Eles fomentam um cultura de mudança criativa e crescimento ao invés de manter o *status quo*. [...] Eles integram perspicácia criativa, persistência e energia, intuição e sensitividade para as necessidades dos outros a fim de "forjar a liga estratégia-cultura" para suas organizações (ibid.).
+> Em uma cultura inovativa, os líderes [transformacionais] se baseiam em premissas tais quais: pessoas são confiáveis e com propósito; todos tem uma contribuição única a dar; e problemas complexos são lidados no nível mais baixo possível [...] Eles fomentam uma cultura de mudança criativa e crescimento ao invés de manter o *status quo*. [...] Eles integram perspicácia criativa, persistência e energia, intuição e sensitividade para as necessidades dos outros a fim de "forjar a liga estratégia-cultura" para suas organizações (ibid.).
 
 ## Pessoas
 
