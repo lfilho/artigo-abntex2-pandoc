@@ -8,7 +8,7 @@ guard :shell do
         system "rake artigo"
 
         # Exibe erros de citações inválidas
-        system %{ pdfgrep -H --color always '\\[\\?\\]' out/"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho".pdf }
+        system %{ pdfgrep -H --color always '\\[\\?\\]' out/\"Artigo\ -\ FILHO,\ Luiz\ -\ BENEFÍCIOS\ INCIDENTAIS\ DA\ MODELAGEM\ DE\ PROCESSOS\ PARA\ A\ CULTURA\ ORGANIZACIONAL\".pdf }
     end
 
     watch(/(proposta.latex|plano.md|proposta.md)/) do |m|

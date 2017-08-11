@@ -45,7 +45,7 @@ task :artigo do
   system <<-EOS
     pandoc -f markdown+raw_tex artigo.md --data-dir=. --template=artigo --filter pandoc_abnt -o #{ARTIGO_LATEX} #{inclui_apendices} #{inclui_anexos} --top-level-division=section && \
     latexmk -f #{SILENT} -pdf #{ARTIGO_LATEX} && \
-    mv #{ARTIGO_PDF} out/\"Artigo\ -\ Luiz\ Gonzaga\ dos\ Santos\ Filho\".pdf && \
+    mv #{ARTIGO_PDF} out/\"Artigo\ -\ FILHO,\ Luiz\ -\ BENEFÍCIOS\ INCIDENTAIS\ DA\ MODELAGEM\ DE\ PROCESSOS\ PARA\ A\ CULTURA\ ORGANIZACIONAL\".pdf && \
     ./static_check.sh
   EOS
 end

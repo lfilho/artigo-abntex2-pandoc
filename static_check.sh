@@ -35,7 +35,7 @@ status_print() {
 max_num_of_pages=18
 avg_num_of_chars=24000
 
-pdf_file="out/Artigo - Luiz Gonzaga dos Santos Filho.pdf"
+pdf_file="out/Artigo - FILHO, Luiz - BENEFÍCIOS INCIDENTAIS DA MODELAGEM DE PROCESSOS PARA A CULTURA ORGANIZACIONAL.pdf"
 pdf_to_text=`pdftotext "$pdf_file" -`
 
 num_of_pages=`podofocountpages -s "$pdf_file"`
