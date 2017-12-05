@@ -112,7 +112,7 @@ Ainda sobre produtividade, em resposta às Perguntas 5 e 7, o "Líder 3" também
 
 ## Da explicitação e disseminação do conhecimento
 
-A explicitação do conhecimento é um dos passos chave quando se almeja disseminá-lo e transformá-los em insumos para engajamento e inovação. Como diria Zaidan, "o segredo para a criação do conhecimento está na mobilização e conversão do conhecimento tácito" \cite[p.~11]{zaidanconhecimento}. A modelagem de processos permite rapidamente esta explicitação do conhecimento sobre os processos de uma empresa e, conforme notamos na \autoref{resultado-questao-2}, houveram consideráveis melhoras nesta área também.
+A explicitação do conhecimento é um dos passos chave quando se almeja disseminá-lo e transformá-los em insumos para engajamento e inovação. Segundo Zaidan, "o segredo para a criação do conhecimento está na mobilização e conversão do conhecimento tácito" \cite[p.~11]{zaidanconhecimento}. A modelagem de processos permite rapidamente esta explicitação do conhecimento sobre os processos de uma empresa e, conforme notamos na \autoref{resultado-questao-2}, houveram consideráveis melhoras nesta área também.
 
 \figuraigti{imagens/resultado-questao-2.pdf}{resultado-questao-2}{Resultado da Questão 2 -- Explicitação e disseminação do conhecimento}{O autor, 2017}
 
@@ -120,7 +120,7 @@ Uma vez explicitado e disseminado tais conhecimentos, fica mais fácil analisar 
 
 Para o "Líder 5", em respostas às Perguntas 5 e 7, a disseminação do conhecimento ficou mais "enraizada" nos colaboradores e que os conheicmentos disseminados foram essenciais para levar a empresa a onde ela está hoje, bem como consolidar atividades vitais da mesma.
 
-Já o "Líder 1", ressalta em suas respostas às Pergutnas 2 e 7, que a disseminação do conhecimento melhorou um problema existente que era a concentração de conhecimentos vitais da empresa em apenas uma pessoa, e que essa disseminação é importante até mesmo para dar prazos mais factíveis e melhorar, assim, o relacionamento com clientes também.
+Já o "Líder 1", ressalta em suas respostas às Perguntas 2 e 7, que a disseminação do conhecimento melhorou um problema existente que era a concentração de conhecimentos vitais da empresa em apenas uma pessoa, e que essa disseminação é importante até mesmo para dar prazos mais factíveis e melhorar, assim, o relacionamento com clientes também.
 
 É interessante a resposta do "Líder 4" à Pergunta 1. de acordo com tal líder, uma lacuna de conhecimentos entre departamentos pode ser muito nocivo à uma empresa: "Não adianta produzir produto ou oferecer um serviço se você não vende isso também de forma estruturada e otimizada. [...] As vezes o vendedor vende o que não tem por falta de conhecimento."
 
@@ -184,7 +184,7 @@ Fica, assim, conspícuo que os colaboradores viram os benefícios incidentais do
 
 # Considerações finais
 
-Ao passo que as organizações já percebem que o tradicional modelo de deparatamentos isolados não mais atende aos requisitos do dinâmico mercado hodierno, é difícil na realidade cotidiana de uma organização criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. É aí que uma simples modelagem de processos pode ser um excelente primeiro passo de um empreendimento que traz os benefícios incidentais corroborado por esta pesquisa à uma organização.
+Ao passo que as organizações já percebem que o tradicional modelo de deparatamentos isolados não mais atende aos requisitos do dinâmico mercado hodierno, é difícil na realidade cotidiana de uma organização criar janelas de tempo para que os colaboradores entendam os processos de outros departamentos a fim de melhor agregarem valor à atividade fim da empresa. E assim uma simples modelagem de processos pode ser um excelente primeiro passo de um empreendimento que traz os benefícios incidentais corroborados por esta pesquisa à uma organização.
 
 Sabe-se que modelar ou mesmo gerir os processos apenas de parte de uma organização é subótimo \cite{muller1996evoluccao}, entrementes, como percebe-se com os resultados obtidos, mesmo este esforço inicial já é capaz de trazer benefícios à cultura de uma organização e ao ânimo de seus empregados. Viu-se também, que tais esforços (que podem ser feitos em curto prazo) devem vir acompanhados de medidas de médio e longo prazo, sob perigo dos benefícios estagnarem e não acompanhar a natural evolução dos processos e cultura da organização.
 
